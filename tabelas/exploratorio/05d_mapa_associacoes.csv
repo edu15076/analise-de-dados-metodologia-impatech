@@ -1,0 +1,181 @@
+variável,desfecho,n_pos,n_neg,efeito,medida,p,status,p_holm,sig,magnitude
+Ingresso: ENEM (vs Medalhas),q12_transicao,24.0,71.0,0.2294600938967135,r_rb,0.08971283647371829,testado,1.0,,pequena
+Ingresso: ENEM (vs Medalhas),q13_expectativa,24.0,71.0,-0.038145539906103254,r_rb,0.7806755053956659,testado,1.0,,desprezível
+Ingresso: ENEM (vs Medalhas),q14_prereq,24.0,71.0,0.26525821596244126,r_rb,0.05133720941555726,testado,1.0,,pequena
+Ingresso: ENEM (vs Medalhas),q17_aulas,24.0,71.0,-0.068075117370892,r_rb,0.6191733069182126,testado,1.0,,desprezível
+Ingresso: ENEM (vs Medalhas),q25_novo,24.0,71.0,0.142605633802817,r_rb,0.2871367050277127,testado,1.0,,pequena
+Ingresso: ENEM (vs Medalhas),q25_absorveu,24.0,71.0,-0.03169014084507038,r_rb,0.8175882844898308,testado,1.0,,desprezível
+Ingresso: ENEM (vs Medalhas),q25_monitoria,24.0,71.0,-0.005868544600938996,r_rb,0.9688945236080265,testado,1.0,,desprezível
+Ingresso: ENEM (vs Medalhas),q15_apoio_ord,24.0,71.0,0.23415492957746475,r_rb,0.07609688923616169,testado,1.0,,pequena
+Ingresso: ENEM (vs Medalhas),q18_ia_ord,24.0,71.0,0.1619718309859155,r_rb,0.16475458962970702,testado,1.0,,pequena
+Iniciou outra graduação (completa ou não),q12_transicao,26.0,69.0,-0.17837235228539572,r_rb,0.17614341863855731,testado,1.0,,pequena
+Iniciou outra graduação (completa ou não),q13_expectativa,26.0,69.0,-0.10869565217391308,r_rb,0.41075010124241085,testado,1.0,,pequena
+Iniciou outra graduação (completa ou não),q14_prereq,26.0,69.0,-0.14214046822742477,r_rb,0.2848068823716977,testado,1.0,,pequena
+Iniciou outra graduação (completa ou não),q17_aulas,26.0,69.0,0.0005574136008918984,r_rb,1.0,testado,1.0,,desprezível
+Iniciou outra graduação (completa ou não),q25_novo,26.0,69.0,-0.16387959866220736,r_rb,0.20911511642267833,testado,1.0,,pequena
+Iniciou outra graduação (completa ou não),q25_absorveu,26.0,69.0,-0.04124860646599782,r_rb,0.7568547014656392,testado,1.0,,desprezível
+Iniciou outra graduação (completa ou não),q25_monitoria,26.0,69.0,-0.1610925306577481,r_rb,0.22393497627047687,testado,1.0,,pequena
+Iniciou outra graduação (completa ou não),q15_apoio_ord,26.0,69.0,-0.021181716833890696,r_rb,0.8723209344960425,testado,1.0,,desprezível
+Iniciou outra graduação (completa ou não),q18_ia_ord,26.0,69.0,-0.01114827201783719,r_rb,0.925469485421893,testado,1.0,,desprezível
+Estudou em escola privada,q12_transicao,13.0,82.0,-0.2195121951219512,r_rb,0.19992608428241987,testado,1.0,,pequena
+Estudou em escola privada,q13_expectativa,13.0,82.0,-0.11069418386491559,r_rb,0.5198580481549411,testado,1.0,,pequena
+Estudou em escola privada,q14_prereq,13.0,82.0,-0.04502814258911825,r_rb,0.7973713372804068,testado,1.0,,desprezível
+Estudou em escola privada,q17_aulas,13.0,82.0,-0.018761726078799223,r_rb,0.9173108993402728,testado,1.0,,desprezível
+Estudou em escola privada,q25_novo,13.0,82.0,-0.1566604127579737,r_rb,0.3559387166946253,testado,1.0,,pequena
+Estudou em escola privada,q25_absorveu,13.0,82.0,-0.060037523452157626,r_rb,0.7288666699814287,testado,1.0,,desprezível
+Estudou em escola privada,q25_monitoria,13.0,82.0,0.027204502814258902,r_rb,0.8780958782698007,testado,1.0,,desprezível
+Estudou em escola privada,q15_apoio_ord,13.0,82.0,-0.16885553470919323,r_rb,0.31315438992395417,testado,1.0,,pequena
+Estudou em escola privada,q18_ia_ord,13.0,82.0,-0.026266416510318913,r_rb,0.863081680262428,testado,1.0,,desprezível
+Entrou ≥ 1 ano após o EM,q12_transicao,32.0,63.0,-0.20436507936507942,r_rb,0.10015674912339424,testado,1.0,,pequena
+Entrou ≥ 1 ano após o EM,q13_expectativa,32.0,63.0,-0.16319444444444442,r_rb,0.18954114614102613,testado,1.0,,pequena
+Entrou ≥ 1 ano após o EM,q14_prereq,32.0,63.0,-0.14434523809523814,r_rb,0.2493293564242447,testado,1.0,,pequena
+Entrou ≥ 1 ano após o EM,q17_aulas,32.0,63.0,-0.16617063492063489,r_rb,0.18446508735886158,testado,1.0,,pequena
+Entrou ≥ 1 ano após o EM,q25_novo,32.0,63.0,-0.1641865079365079,r_rb,0.18205599768470415,testado,1.0,,pequena
+Entrou ≥ 1 ano após o EM,q25_absorveu,32.0,63.0,-0.025793650793650813,r_rb,0.8383155620569649,testado,1.0,,desprezível
+Entrou ≥ 1 ano após o EM,q25_monitoria,32.0,63.0,-0.2926587301587301,r_rb,0.018964790613301932,testado,1.0,,pequena
+Entrou ≥ 1 ano após o EM,q15_apoio_ord,32.0,63.0,-0.034226190476190466,r_rb,0.7805331283740219,testado,1.0,,desprezível
+Entrou ≥ 1 ano após o EM,q18_ia_ord,32.0,63.0,0.051587301587301626,r_rb,0.6323768915189497,testado,1.0,,desprezível
+Idade 20+ (vs 17–19),q12_transicao,55.0,40.0,-0.08545454545454545,r_rb,0.47394311603731787,testado,1.0,,desprezível
+Idade 20+ (vs 17–19),q13_expectativa,55.0,40.0,-0.2245454545454545,r_rb,0.05907368371795483,testado,1.0,,pequena
+Idade 20+ (vs 17–19),q14_prereq,55.0,40.0,-0.10363636363636364,r_rb,0.3880327242578263,testado,1.0,,pequena
+Idade 20+ (vs 17–19),q17_aulas,55.0,40.0,-0.020454545454545503,r_rb,0.8670860319689027,testado,1.0,,desprezível
+Idade 20+ (vs 17–19),q25_novo,55.0,40.0,-0.09545454545454546,r_rb,0.4184932057232127,testado,1.0,,desprezível
+Idade 20+ (vs 17–19),q25_absorveu,55.0,40.0,-0.020000000000000018,r_rb,0.8691884422159641,testado,1.0,,desprezível
+Idade 20+ (vs 17–19),q25_monitoria,55.0,40.0,-0.18545454545454543,r_rb,0.12067035847855803,testado,1.0,,pequena
+Idade 20+ (vs 17–19),q15_apoio_ord,55.0,40.0,0.12227272727272731,r_rb,0.2931739545937263,testado,1.0,,pequena
+Idade 20+ (vs 17–19),q18_ia_ord,55.0,40.0,0.056363636363636394,r_rb,0.5844728993494408,testado,1.0,,desprezível
+Turma (2024 → 2026),q12_transicao,95.0,,0.1598770190910961,ρ,0.1217107987305118,testado,1.0,,pequena
+Turma (2024 → 2026),q13_expectativa,95.0,,-0.07672491778716703,ρ,0.4598994294013734,testado,1.0,,desprezível
+Turma (2024 → 2026),q14_prereq,95.0,,0.18770985159772352,ρ,0.06851916087795329,testado,1.0,,pequena
+Turma (2024 → 2026),q17_aulas,95.0,,-0.09194070813505435,ρ,0.37554054683812776,testado,1.0,,desprezível
+Turma (2024 → 2026),q25_novo,95.0,,-0.012961851523719908,ρ,0.900785403931871,testado,1.0,,desprezível
+Turma (2024 → 2026),q25_absorveu,95.0,,-0.02154120897559418,ρ,0.8358518799455754,testado,1.0,,desprezível
+Turma (2024 → 2026),q25_monitoria,95.0,,0.051172839964954135,ρ,0.6223721669477293,testado,1.0,,desprezível
+Turma (2024 → 2026),q15_apoio_ord,95.0,,0.03663082049735275,ρ,0.7245196316589301,testado,1.0,,desprezível
+Turma (2024 → 2026),q18_ia_ord,95.0,,-0.06652789306870904,ρ,0.5218087314410067,testado,1.0,,desprezível
+Sempre usa IA,q12_transicao,59.0,36.0,0.37241054613935964,r_rb,0.002078436129525629,testado,0.34086352524220315,,média
+Sempre usa IA,q13_expectativa,59.0,36.0,-0.08851224105461397,r_rb,0.46618496414395894,testado,1.0,,desprezível
+Sempre usa IA,q14_prereq,59.0,36.0,0.3036723163841808,r_rb,0.01269178848536866,testado,1.0,,média
+Sempre usa IA,q17_aulas,59.0,36.0,0.035310734463276816,r_rb,0.7745241441510516,testado,1.0,,desprezível
+Sempre usa IA,q25_novo,59.0,36.0,0.24435028248587565,r_rb,0.041277201060283986,testado,1.0,,pequena
+Sempre usa IA,q25_absorveu,59.0,36.0,-0.3314500941619586,r_rb,0.00613966206704825,testado,0.98234593072772,,média
+Sempre usa IA,q25_monitoria,59.0,36.0,0.03389830508474567,r_rb,0.7829035566252349,testado,1.0,,desprezível
+Sempre usa IA,q15_apoio_ord,59.0,36.0,0.42514124293785316,r_rb,0.00031738433935108156,testado,0.05300318467163062,,média
+Sempre usa IA,q18_ia_ord,,,,,,redundante,,,
+Precisou de apoio,q12_transicao,58.0,37.0,0.41006523765144465,r_rb,0.0006543230370244944,testado,0.10861762414606607,,média
+Precisou de apoio,q13_expectativa,58.0,37.0,-0.09086672879776325,r_rb,0.45199516813863094,testado,1.0,,desprezível
+Precisou de apoio,q14_prereq,58.0,37.0,0.7027027027027026,r_rb,6.546167020458804e-09,testado,1.106302226457538e-06,*,grande
+Precisou de apoio,q17_aulas,58.0,37.0,0.26561043802423123,r_rb,0.028427017139952243,testado,1.0,,pequena
+Precisou de apoio,q25_novo,58.0,37.0,0.28704566635601125,r_rb,0.015933780599867414,testado,1.0,,pequena
+Precisou de apoio,q25_absorveu,58.0,37.0,-0.2823858341099721,r_rb,0.018970304625585216,testado,1.0,,pequena
+Precisou de apoio,q25_monitoria,58.0,37.0,0.3546132339235788,r_rb,0.0033434928793792088,testado,0.5416458464594318,,média
+Precisou de apoio,q15_apoio_ord,,,,,,redundante,,,
+Precisou de apoio,q18_ia_ord,58.0,37.0,0.28704566635601125,r_rb,0.00563144901600831,testado,0.9066632915773379,,pequena
+Não/incerto sobre terminar,q12_transicao,14.0,81.0,-0.013227513227513255,r_rb,0.9404765262116692,testado,1.0,,desprezível
+Não/incerto sobre terminar,q13_expectativa,14.0,81.0,-0.3615520282186949,r_rb,0.02916642362758138,testado,1.0,,média
+Não/incerto sobre terminar,q14_prereq,14.0,81.0,0.2786596119929454,r_rb,0.09523940331299355,testado,1.0,,pequena
+Não/incerto sobre terminar,q17_aulas,14.0,81.0,0.050264550264550234,r_rb,0.7667076550733889,testado,1.0,,desprezível
+Não/incerto sobre terminar,q25_novo,14.0,81.0,-0.02910052910052907,r_rb,0.8630168556443553,testado,1.0,,desprezível
+Não/incerto sobre terminar,q25_absorveu,14.0,81.0,-0.29894179894179895,r_rb,0.07137319343117761,testado,1.0,,pequena
+Não/incerto sobre terminar,q25_monitoria,14.0,81.0,0.08730158730158721,r_rb,0.6027168405617775,testado,1.0,,desprezível
+Não/incerto sobre terminar,q15_apoio_ord,14.0,81.0,0.35185185185185186,r_rb,0.029677919900379452,testado,1.0,,média
+Não/incerto sobre terminar,q18_ia_ord,14.0,81.0,0.11992945326278659,r_rb,0.40314874724318506,testado,1.0,,pequena
+Trancou/reprovou,q12_transicao,11.0,84.0,0.1612554112554112,r_rb,0.38185034870348933,testado,1.0,,pequena
+Trancou/reprovou,q13_expectativa,11.0,84.0,-0.41774891774891776,r_rb,0.022928567865598062,testado,1.0,,média
+Trancou/reprovou,q14_prereq,11.0,84.0,-0.10606060606060608,r_rb,0.5692533223741165,testado,1.0,,pequena
+Trancou/reprovou,q17_aulas,11.0,84.0,-0.2316017316017316,r_rb,0.2112507024551874,testado,1.0,,pequena
+Trancou/reprovou,q25_novo,11.0,84.0,-0.09956709956709953,r_rb,0.5867512100360769,testado,1.0,,desprezível
+Trancou/reprovou,q25_absorveu,11.0,84.0,-0.39610389610389607,r_rb,0.03099973325684443,testado,1.0,,média
+Trancou/reprovou,q25_monitoria,11.0,84.0,-0.09740259740259738,r_rb,0.6005118924595663,testado,1.0,,desprezível
+Trancou/reprovou,q15_apoio_ord,11.0,84.0,0.29220779220779214,r_rb,0.10351113198793956,testado,1.0,,pequena
+Trancou/reprovou,q18_ia_ord,11.0,84.0,0.1298701298701299,r_rb,0.41427924225308976,testado,1.0,,pequena
+Desafio: Gerenciar tempo,q12_transicao,81.0,14.0,0.09259259259259256,r_rb,0.5791009411554421,testado,1.0,,desprezível
+Desafio: Gerenciar tempo,q13_expectativa,81.0,14.0,0.13756613756613767,r_rb,0.40844826471481277,testado,1.0,,pequena
+Desafio: Gerenciar tempo,q14_prereq,81.0,14.0,0.21340388007054667,r_rb,0.20179768132000597,testado,1.0,,pequena
+Desafio: Gerenciar tempo,q17_aulas,81.0,14.0,0.281305114638448,r_rb,0.0920383273244455,testado,1.0,,pequena
+Desafio: Gerenciar tempo,q25_novo,81.0,14.0,0.14902998236331566,r_rb,0.3650367627257691,testado,1.0,,pequena
+Desafio: Gerenciar tempo,q25_absorveu,81.0,14.0,0.0379188712522045,r_rb,0.8227158250309357,testado,1.0,,desprezível
+Desafio: Gerenciar tempo,q25_monitoria,81.0,14.0,0.09347442680776008,r_rb,0.5770656914113291,testado,1.0,,desprezível
+Desafio: Gerenciar tempo,q15_apoio_ord,81.0,14.0,0.11022927689594364,r_rb,0.4981270918398263,testado,1.0,,pequena
+Desafio: Gerenciar tempo,q18_ia_ord,81.0,14.0,0.20458553791887124,r_rb,0.15257138254544464,testado,1.0,,pequena
+Desafio: Organização de estudos,q12_transicao,61.0,34.0,0.2941176470588236,r_rb,0.01631309365853294,testado,1.0,,pequena
+Desafio: Organização de estudos,q13_expectativa,61.0,34.0,0.22420443587270977,r_rb,0.0672832395966275,testado,1.0,,pequena
+Desafio: Organização de estudos,q14_prereq,61.0,34.0,0.23866923818707808,r_rb,0.05302652568049514,testado,1.0,,pequena
+Desafio: Organização de estudos,q17_aulas,61.0,34.0,0.041465766634522616,r_rb,0.7391440244860813,testado,1.0,,desprezível
+Desafio: Organização de estudos,q25_novo,61.0,34.0,0.12150433944069428,r_rb,0.3169724265667324,testado,1.0,,pequena
+Desafio: Organização de estudos,q25_absorveu,61.0,34.0,-0.29363548698167796,r_rb,0.01647030345453868,testado,1.0,,pequena
+Desafio: Organização de estudos,q25_monitoria,61.0,34.0,0.026036644165863043,r_rb,0.8351140132650181,testado,1.0,,desprezível
+Desafio: Organização de estudos,q15_apoio_ord,61.0,34.0,0.29556412729026027,r_rb,0.013424405417155373,testado,1.0,,pequena
+Desafio: Organização de estudos,q18_ia_ord,61.0,34.0,0.28736740597878496,r_rb,0.006438608763581179,testado,1.0,,pequena
+Desafio: Tarefas de casa,q12_transicao,30.0,65.0,-0.09999999999999998,r_rb,0.43007212778595305,testado,1.0,,desprezível
+Desafio: Tarefas de casa,q13_expectativa,30.0,65.0,-0.2615384615384615,r_rb,0.03844575088805647,testado,1.0,,pequena
+Desafio: Tarefas de casa,q14_prereq,30.0,65.0,0.22051282051282062,r_rb,0.08314279152788899,testado,1.0,,pequena
+Desafio: Tarefas de casa,q17_aulas,30.0,65.0,-0.017435897435897463,r_rb,0.8939368680346143,testado,1.0,,desprezível
+Desafio: Tarefas de casa,q25_novo,30.0,65.0,-0.15692307692307694,r_rb,0.2098220128592977,testado,1.0,,pequena
+Desafio: Tarefas de casa,q25_absorveu,30.0,65.0,-0.011282051282051286,r_rb,0.9319195161801082,testado,1.0,,desprezível
+Desafio: Tarefas de casa,q25_monitoria,30.0,65.0,0.25384615384615383,r_rb,0.04541141484298341,testado,1.0,,pequena
+Desafio: Tarefas de casa,q15_apoio_ord,30.0,65.0,0.31025641025641026,r_rb,0.01185695721448095,testado,1.0,,média
+Desafio: Tarefas de casa,q18_ia_ord,30.0,65.0,0.11076923076923073,r_rb,0.309950045368906,testado,1.0,,pequena
+"Método: Leitura, anotação, resumos",q12_transicao,74.0,21.0,-0.12676962676962678,r_rb,0.3718469977761184,testado,1.0,,pequena
+"Método: Leitura, anotação, resumos",q13_expectativa,74.0,21.0,-0.3153153153153153,r_rb,0.02589666318135586,testado,1.0,,média
+"Método: Leitura, anotação, resumos",q14_prereq,74.0,21.0,0.09845559845559837,r_rb,0.49163054694414865,testado,1.0,,desprezível
+"Método: Leitura, anotação, resumos",q17_aulas,74.0,21.0,0.2792792792792793,r_rb,0.05003843864702487,testado,1.0,,pequena
+"Método: Leitura, anotação, resumos",q25_novo,74.0,21.0,-0.2361647361647362,r_rb,0.09184660792387202,testado,1.0,,pequena
+"Método: Leitura, anotação, resumos",q25_absorveu,74.0,21.0,-0.09845559845559848,r_rb,0.48851637358590294,testado,1.0,,desprezível
+"Método: Leitura, anotação, resumos",q25_monitoria,74.0,21.0,0.17631917631917626,r_rb,0.2154881745561652,testado,1.0,,pequena
+"Método: Leitura, anotação, resumos",q15_apoio_ord,74.0,21.0,0.1357786357786357,r_rb,0.3270603636642285,testado,1.0,,pequena
+"Método: Leitura, anotação, resumos",q18_ia_ord,74.0,21.0,0.1287001287001286,r_rb,0.2924699886400637,testado,1.0,,pequena
+"Método: Prática, exercícios e listas",q12_transicao,84.0,11.0,0.15909090909090917,r_rb,0.388316407913893,testado,1.0,,pequena
+"Método: Prática, exercícios e listas",q13_expectativa,84.0,11.0,0.15692640692640691,r_rb,0.3948982386204609,testado,1.0,,pequena
+"Método: Prática, exercícios e listas",q14_prereq,84.0,11.0,0.27489177489177496,r_rb,0.13767951314171067,testado,1.0,,pequena
+"Método: Prática, exercícios e listas",q17_aulas,84.0,11.0,-0.07900432900432897,r_rb,0.6726014193786267,testado,1.0,,desprezível
+"Método: Prática, exercícios e listas",q25_novo,84.0,11.0,-0.07034632034632038,r_rb,0.7022559965846096,testado,1.0,,desprezível
+"Método: Prática, exercícios e listas",q25_absorveu,84.0,11.0,-0.1114718614718615,r_rb,0.5466421749424062,testado,1.0,,pequena
+"Método: Prática, exercícios e listas",q25_monitoria,84.0,11.0,0.09740259740259738,r_rb,0.6005118924595663,testado,1.0,,desprezível
+"Método: Prática, exercícios e listas",q15_apoio_ord,84.0,11.0,0.2012987012987013,r_rb,0.2628531926254183,testado,1.0,,pequena
+"Método: Prática, exercícios e listas",q18_ia_ord,84.0,11.0,-0.1298701298701299,r_rb,0.41427924225308976,testado,1.0,,pequena
+Método: Grupos de estudos,q12_transicao,17.0,78.0,0.2956259426847663,r_rb,0.05378441884286673,testado,1.0,,pequena
+Método: Grupos de estudos,q13_expectativa,17.0,78.0,-0.017345399698340924,r_rb,0.9135979266773343,testado,1.0,,desprezível
+Método: Grupos de estudos,q14_prereq,17.0,78.0,0.4984917043740573,r_rb,0.0012262972733648745,testado,0.20233905010520428,,média
+Método: Grupos de estudos,q17_aulas,17.0,78.0,0.34389140271493224,r_rb,0.025799421724121342,testado,1.0,,média
+Método: Grupos de estudos,q25_novo,17.0,78.0,0.198340874811463,r_rb,0.1914294382003442,testado,1.0,,pequena
+Método: Grupos de estudos,q25_absorveu,17.0,78.0,0.15233785822021106,r_rb,0.3213967327139525,testado,1.0,,pequena
+Método: Grupos de estudos,q25_monitoria,17.0,78.0,0.4698340874811464,r_rb,0.002250259874229741,testado,0.3667923594994478,,média
+Método: Grupos de estudos,q15_apoio_ord,17.0,78.0,0.20135746606334837,r_rb,0.17898239639332558,testado,1.0,,pequena
+Método: Grupos de estudos,q18_ia_ord,17.0,78.0,-0.16289592760180993,r_rb,0.21822389051236446,testado,1.0,,pequena
+Método: Videoaulas,q12_transicao,18.0,77.0,0.03391053391053389,r_rb,0.8243722196228669,testado,1.0,,desprezível
+Método: Videoaulas,q13_expectativa,18.0,77.0,-0.04401154401154406,r_rb,0.7722468673279128,testado,1.0,,desprezível
+Método: Videoaulas,q14_prereq,18.0,77.0,-0.05411255411255411,r_rb,0.7229482946657065,testado,1.0,,desprezível
+Método: Videoaulas,q17_aulas,18.0,77.0,-0.13780663780663782,r_rb,0.36255347902476887,testado,1.0,,pequena
+Método: Videoaulas,q25_novo,18.0,77.0,0.0021645021645022577,r_rb,0.9922175631000746,testado,1.0,,desprezível
+Método: Videoaulas,q25_absorveu,18.0,77.0,-0.08225108225108224,r_rb,0.585573171268976,testado,1.0,,desprezível
+Método: Videoaulas,q25_monitoria,18.0,77.0,-0.21789321789321792,r_rb,0.1481625196610559,testado,1.0,,pequena
+Método: Videoaulas,q15_apoio_ord,18.0,77.0,-0.21139971139971137,r_rb,0.14902953584617087,testado,1.0,,pequena
+Método: Videoaulas,q18_ia_ord,18.0,77.0,0.06926406926406936,r_rb,0.5946283516471005,testado,1.0,,desprezível
+Método: Método Pomodoro,q12_transicao,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q13_expectativa,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q14_prereq,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q17_aulas,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q25_novo,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q25_absorveu,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q25_monitoria,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q15_apoio_ord,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Método Pomodoro,q18_ia_ord,,,,r_rb,,n < N_MIN_GRUPO,,,
+Método: Cronograma/plano de estudos,q12_transicao,23.0,72.0,0.05374396135265691,r_rb,0.6977177812906792,testado,1.0,,desprezível
+Método: Cronograma/plano de estudos,q13_expectativa,23.0,72.0,-0.0066425120772947155,r_rb,0.9647991151505912,testado,1.0,,desprezível
+Método: Cronograma/plano de estudos,q14_prereq,23.0,72.0,0.32669082125603865,r_rb,0.01794416383966352,testado,1.0,,média
+Método: Cronograma/plano de estudos,q17_aulas,23.0,72.0,0.08756038647343001,r_rb,0.5278354642112746,testado,1.0,,desprezível
+Método: Cronograma/plano de estudos,q25_novo,23.0,72.0,0.016304347826086918,r_rb,0.9076484678004683,testado,1.0,,desprezível
+Método: Cronograma/plano de estudos,q25_absorveu,23.0,72.0,-0.13828502415458932,r_rb,0.31417567390880585,testado,1.0,,pequena
+Método: Cronograma/plano de estudos,q25_monitoria,23.0,72.0,0.16485507246376807,r_rb,0.2319043208660928,testado,1.0,,pequena
+Método: Cronograma/plano de estudos,q15_apoio_ord,23.0,72.0,0.2964975845410629,r_rb,0.026743406965187278,testado,1.0,,pequena
+Método: Cronograma/plano de estudos,q18_ia_ord,23.0,72.0,0.14492753623188404,r_rb,0.22066410696737437,testado,1.0,,pequena
+Método: Perguntar a uma IA,q12_transicao,68.0,27.0,-0.10566448801742923,r_rb,0.41851237754162474,testado,1.0,,pequena
+Método: Perguntar a uma IA,q13_expectativa,68.0,27.0,-0.170479302832244,r_rb,0.1909804230115577,testado,1.0,,pequena
+Método: Perguntar a uma IA,q14_prereq,68.0,27.0,0.08932461873638342,r_rb,0.49746110094192364,testado,1.0,,desprezível
+Método: Perguntar a uma IA,q17_aulas,68.0,27.0,-0.04793028322440085,r_rb,0.7171730882951236,testado,1.0,,desprezível
+Método: Perguntar a uma IA,q25_novo,68.0,27.0,-0.1263616557734205,r_rb,0.3276612857495127,testado,1.0,,pequena
+Método: Perguntar a uma IA,q25_absorveu,68.0,27.0,-0.20043572984749458,r_rb,0.12389108168604802,testado,1.0,,pequena
+Método: Perguntar a uma IA,q25_monitoria,68.0,27.0,-0.01089324618736387,r_rb,0.936787730528567,testado,1.0,,desprezível
+Método: Perguntar a uma IA,q15_apoio_ord,68.0,27.0,0.21840958605664484,r_rb,0.0859006209485741,testado,1.0,,pequena
+Método: Perguntar a uma IA,q18_ia_ord,68.0,27.0,0.44226579520697173,r_rb,7.913022115936983e-05,testado,0.01329387715477413,*,média

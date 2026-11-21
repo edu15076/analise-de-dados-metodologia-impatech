@@ -1,0 +1,8 @@
+desfecho,Iniciou outra graduação: n,Iniciou outra graduação: Md [IQR],Não iniciou: n,Não iniciou: Md [IQR],teste,estat,p,p_holm,sig,efeito,medida
+Q11 Dificuldade da transição EM→superior,26,8.0 [3.2–8.0],69,8.0 [6.0–9.0],Mann-Whitney U,737.0,0.1761,1.0,,0.139,r
+Q12 Expectativa com a Matemática correspondida,26,7.0 [6.0–8.0],69,8.0 [6.0–9.0],Mann-Whitney U,799.5,0.4108,1.0,,0.085,r
+Q13 Dificuldade com pré-requisitos,26,4.0 [2.2–8.0],69,7.0 [3.0–8.0],Mann-Whitney U,769.5,0.2848,1.0,,0.11,r
+Q16 Aprendizado atribuído às aulas,26,5.0 [3.2–7.0],69,5.0 [3.0–7.0],Mann-Whitney U,897.5,1.0,1.0,,0.0,r
+Q24 Conteúdo novo visto,26,7.5 [7.0–9.8],69,9.0 [7.0–10.0],Mann-Whitney U,750.0,0.2091,1.0,,0.129,r
+Q24 Quanto sente que absorveu,26,6.0 [5.0–7.0],69,6.0 [5.0–7.0],Mann-Whitney U,860.0,0.7569,1.0,,0.032,r
+Q24 Quanto as monitorias ajudam,26,3.0 [1.0–5.0],69,5.0 [2.0–6.0],Mann-Whitney U,752.5,0.2239,1.0,,0.125,r

@@ -1,0 +1,89 @@
+contraste,desfecho,n_A,n_B,A,B,efeito,ic95_inf,ic95_sup,p,p_holm,sig,classe,nível,status
+≥1 ano sem outra grad. × Imediatamente,Q11 Dificuldade da transição EM→superior,9,63,8 [4–8],8 [7–9],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q12 Expectativa com a Matemática correspondida,9,63,7 [5–8],8 [6.5–9],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q13 Dificuldade com pré-requisitos,9,63,7 [3–7],7 [3.5–8],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q16 Aprendizado atribuído às aulas,9,63,3 [2–4],6 [4–7],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q24 Conteúdo novo visto,9,63,9 [7–10],9 [7–10],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q24 Quanto sente que absorveu,9,63,5 [4–8],6 [5–7],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q24 Quanto as monitorias ajudam,9,63,3 [1–4],5 [2.5–6.5],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q14 Nº de matérias com apoio (0 = Não … 4 = 4+),9,63,2 [0–2],1 [0–2.5],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q17 Inclinação ao uso de IA (0 = Não … 3 = Sempre uso),9,63,3 [2–3],3 [2–3],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q18 Desafio: Gerenciar tempo,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q18 Desafio: Organização de estudos,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q18 Desafio: Tarefas de casa,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,"Q23 Método: Leitura, anotação, resumos",9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,"Q23 Método: Prática, exercícios e listas",9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q23 Método: Grupos de estudos,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q23 Método: Videoaulas,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q23 Método: Método Pomodoro,9,63,0%,8%,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q23 Método: Cronograma/plano de estudos,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q23 Método: Perguntar a uma IA,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q20 Pretende terminar (Sim),9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q8 Ingresso pelo ENEM,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano sem outra grad. × Imediatamente,Q9 Estudou (também) em escola privada,9,63,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano com outra grad. × Imediatamente,Q11 Dificuldade da transição EM→superior,23,63,8 [2.5–8],8 [7–9],-0.236,-0.508,0.0483,0.0914,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q12 Expectativa com a Matemática correspondida,23,63,7 [6–8],8 [6.5–9],-0.1401,-0.4203,0.1422,0.317,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q13 Dificuldade com pré-requisitos,23,63,4 [2.5–8],7 [3.5–8],-0.167,-0.4465,0.118,0.2355,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q16 Aprendizado atribuído às aulas,23,63,5 [3.5–7],6 [4–7],-0.0732,-0.3672,0.2202,0.605,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q24 Conteúdo novo visto,23,63,7 [7–9],9 [7–10],-0.2077,-0.4589,0.06,0.1327,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q24 Quanto sente que absorveu,23,63,6 [5–7.5],6 [5–7],-0.0449,-0.3444,0.2464,0.7504,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q24 Quanto as monitorias ajudam,23,63,3 [1–5],5 [2.5–6.5],-0.2609,-0.5141,0.0021,0.0631,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q14 Nº de matérias com apoio (0 = Não … 4 = 4+),23,63,1 [0–2],1 [0–2.5],-0.0531,-0.3264,0.2229,0.6993,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q17 Inclinação ao uso de IA (0 = Não … 3 = Sempre uso),23,63,3 [2–3],3 [2–3],0.0428,-0.1974,0.2705,0.7265,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q18 Desafio: Gerenciar tempo,23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q18 Desafio: Organização de estudos,23,63,65%,63%,0.0173,-0.216,0.2429,1.0,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q18 Desafio: Tarefas de casa,23,63,30%,29%,0.0186,-0.1912,0.2443,1.0,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,"Q23 Método: Leitura, anotação, resumos",23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,"Q23 Método: Prática, exercícios e listas",23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q23 Método: Grupos de estudos,23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q23 Método: Videoaulas,23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q23 Método: Método Pomodoro,23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q23 Método: Cronograma/plano de estudos,23,63,30%,22%,0.0821,-0.1202,0.2995,0.5711,1.0,,inconclusivo,,testado
+≥1 ano com outra grad. × Imediatamente,Q23 Método: Perguntar a uma IA,23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q20 Pretende terminar (Sim),23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q8 Ingresso pelo ENEM,23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano com outra grad. × Imediatamente,Q9 Estudou (também) em escola privada,23,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano: sem × com outra grad.,Q11 Dificuldade da transição EM→superior,9,23,8 [4–8],8 [2.5–8],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q12 Expectativa com a Matemática correspondida,9,23,7 [5–8],7 [6–8],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q13 Dificuldade com pré-requisitos,9,23,7 [3–7],4 [2.5–8],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q16 Aprendizado atribuído às aulas,9,23,3 [2–4],5 [3.5–7],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q24 Conteúdo novo visto,9,23,9 [7–10],7 [7–9],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q24 Quanto sente que absorveu,9,23,5 [4–8],6 [5–7.5],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q24 Quanto as monitorias ajudam,9,23,3 [1–4],3 [1–5],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q14 Nº de matérias com apoio (0 = Não … 4 = 4+),9,23,2 [0–2],1 [0–2],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q17 Inclinação ao uso de IA (0 = Não … 3 = Sempre uso),9,23,3 [2–3],3 [2–3],,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q18 Desafio: Gerenciar tempo,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q18 Desafio: Organização de estudos,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q18 Desafio: Tarefas de casa,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,"Q23 Método: Leitura, anotação, resumos",9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,"Q23 Método: Prática, exercícios e listas",9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q23 Método: Grupos de estudos,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q23 Método: Videoaulas,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q23 Método: Método Pomodoro,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q23 Método: Cronograma/plano de estudos,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q23 Método: Perguntar a uma IA,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q20 Pretende terminar (Sim),9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q8 Ingresso pelo ENEM,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano: sem × com outra grad.,Q9 Estudou (também) em escola privada,9,23,,,,,,,,,não testado,,n < N_MIN_GRUPO (só descritiva)
+≥1 ano (todos) × Imediatamente,Q11 Dificuldade da transição EM→superior,32,63,8 [3–8],8 [7–9],-0.2044,-0.4425,0.0437,0.1002,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q12 Expectativa com a Matemática correspondida,32,63,7 [5.75–8],8 [6.5–9],-0.1632,-0.3973,0.0883,0.1895,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q13 Dificuldade com pré-requisitos,32,63,4 [2.75–8],7 [3.5–8],-0.1443,-0.3899,0.1091,0.2493,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q16 Aprendizado atribuído às aulas,32,63,4 [2.75–7],6 [4–7],-0.1662,-0.4087,0.0858,0.1845,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q24 Conteúdo novo visto,32,63,8 [7–9.25],9 [7–10],-0.1642,-0.3983,0.0625,0.1821,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q24 Quanto sente que absorveu,32,63,5.5 [4.75–8],6 [5–7],-0.0258,-0.2902,0.2282,0.8383,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q24 Quanto as monitorias ajudam,32,63,3 [1–5],5 [2.5–6.5],-0.2927,-0.5144,-0.0511,0.019,0.5689,,negativa,indicio,testado
+≥1 ano (todos) × Imediatamente,Q14 Nº de matérias com apoio (0 = Não … 4 = 4+),32,63,1.5 [0–2],1 [0–2.5],-0.0342,-0.2693,0.2078,0.7805,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q17 Inclinação ao uso de IA (0 = Não … 3 = Sempre uso),32,63,3 [2–3],3 [2–3],0.0516,-0.1582,0.25,0.6324,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q18 Desafio: Gerenciar tempo,32,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano (todos) × Imediatamente,Q18 Desafio: Organização de estudos,32,63,66%,63%,0.0213,-0.1825,0.2252,1.0,1.0,,sem_associacao,indicio,testado
+≥1 ano (todos) × Imediatamente,Q18 Desafio: Tarefas de casa,32,63,38%,29%,0.0893,-0.1146,0.2932,0.4841,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,"Q23 Método: Leitura, anotação, resumos",32,63,84%,75%,0.0977,-0.0605,0.255,0.3105,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,"Q23 Método: Prática, exercícios e listas",32,63,84%,90%,-0.061,-0.2173,0.0804,0.4992,1.0,,sem_associacao,indicio,testado
+≥1 ano (todos) × Imediatamente,Q23 Método: Grupos de estudos,32,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano (todos) × Imediatamente,Q23 Método: Videoaulas,32,63,19%,19%,-0.003,-0.1607,0.1696,1.0,1.0,,sem_associacao,indicio,testado
+≥1 ano (todos) × Imediatamente,Q23 Método: Método Pomodoro,32,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano (todos) × Imediatamente,Q23 Método: Cronograma/plano de estudos,32,63,28%,22%,0.059,-0.129,0.247,0.6141,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q23 Método: Perguntar a uma IA,32,63,81%,67%,0.1458,-0.0283,0.3189,0.1564,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q20 Pretende terminar (Sim),32,63,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+≥1 ano (todos) × Imediatamente,Q8 Ingresso pelo ENEM,32,63,28%,24%,0.0432,-0.1453,0.246,0.8031,1.0,,inconclusivo,,testado
+≥1 ano (todos) × Imediatamente,Q9 Estudou (também) em escola privada,32,63,16%,13%,0.0293,-0.1126,0.1865,0.7561,1.0,,sem_associacao,indicio,testado

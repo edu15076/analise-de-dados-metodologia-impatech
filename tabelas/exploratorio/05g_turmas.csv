@@ -1,0 +1,61 @@
+contraste,desfecho,n_A,n_B,A,B,efeito,ic95_inf,ic95_sup,p,p_holm,sig,classe,nível,status
+2025 × 2024,Q11 Dificuldade da transição EM→superior,35,17,8 [6.5–9],7 [2–8],0.358,0.0387,0.6538,0.0365,1.0,,positiva,indicio,testado
+2025 × 2024,Q12 Expectativa com a Matemática correspondida,35,17,7 [6.5–8],8 [8–9],-0.3613,-0.6941,-0.0151,0.0326,1.0,,negativa,indicio,testado
+2025 × 2024,Q13 Dificuldade com pré-requisitos,35,17,7 [3–8],3 [2–6],0.3261,0.0067,0.6319,0.0575,1.0,,positiva,indicio,testado
+2025 × 2024,Q16 Aprendizado atribuído às aulas,35,17,6 [4–7],6 [2–7],0.0756,-0.2774,0.4269,0.6626,1.0,,inconclusivo,,testado
+2025 × 2024,Q24 Conteúdo novo visto,35,17,9 [7.5–10],8 [7–9],0.2202,-0.0975,0.5278,0.1922,1.0,,inconclusivo,,testado
+2025 × 2024,Q24 Quanto sente que absorveu,35,17,6 [5–7],7 [5–7],-0.1697,-0.4925,0.1597,0.3154,1.0,,inconclusivo,,testado
+2025 × 2024,Q24 Quanto as monitorias ajudam,35,17,5 [3–6],2 [1–5],0.3025,-0.0571,0.6319,0.0767,1.0,,inconclusivo,,testado
+2025 × 2024,Q14 Nº de matérias com apoio (0 = Não … 4 = 4+),35,17,2 [0–3],0 [0–2],0.2588,-0.0555,0.5445,0.1169,1.0,,inconclusivo,,testado
+2025 × 2024,Q17 Inclinação ao uso de IA (0 = Não … 3 = Sempre uso),35,17,3 [2–3],3 [2–3],0.1311,-0.1412,0.4068,0.3593,1.0,,inconclusivo,,testado
+2025 × 2024,Q18 Desafio: Gerenciar tempo,35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,Q18 Desafio: Organização de estudos,35,17,51%,71%,-0.1916,-0.4538,0.0975,0.2397,1.0,,inconclusivo,,testado
+2025 × 2024,Q18 Desafio: Tarefas de casa,35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,"Q23 Método: Leitura, anotação, resumos",35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,"Q23 Método: Prática, exercícios e listas",35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,Q23 Método: Grupos de estudos,35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,Q23 Método: Videoaulas,35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,Q23 Método: Método Pomodoro,35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,Q23 Método: Cronograma/plano de estudos,35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,Q23 Método: Perguntar a uma IA,35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2025 × 2024,Q20 Pretende terminar (Sim),35,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q11 Dificuldade da transição EM→superior,43,17,8 [7–9.5],7 [2–8],0.3324,0.015,0.6129,0.0435,1.0,,positiva,indicio,testado
+2026 × 2024,Q12 Expectativa com a Matemática correspondida,43,17,8 [6–9],8 [8–9],-0.2175,-0.5253,0.1081,0.1863,1.0,,inconclusivo,,testado
+2026 × 2024,Q13 Dificuldade com pré-requisitos,43,17,7 [4–8],3 [2–6],0.3707,0.0437,0.6703,0.0255,0.9174,,positiva,indicio,testado
+2026 × 2024,Q16 Aprendizado atribuído às aulas,43,17,4 [3–6],6 [2–7],-0.0451,-0.4009,0.3106,0.7913,1.0,,inconclusivo,,testado
+2026 × 2024,Q24 Conteúdo novo visto,43,17,8 [6.5–10],8 [7–9],0.0616,-0.2421,0.3707,0.7123,1.0,,inconclusivo,,testado
+2026 × 2024,Q24 Quanto sente que absorveu,43,17,6 [5–7.5],7 [5–7],-0.0971,-0.409,0.2189,0.5606,1.0,,inconclusivo,,testado
+2026 × 2024,Q24 Quanto as monitorias ajudam,43,17,4 [2–6],2 [1–5],0.2052,-0.1423,0.5363,0.2145,1.0,,inconclusivo,,testado
+2026 × 2024,Q14 Nº de matérias com apoio (0 = Não … 4 = 4+),43,17,1 [0–2],0 [0–2],0.1669,-0.1519,0.4624,0.2979,1.0,,inconclusivo,,testado
+2026 × 2024,Q17 Inclinação ao uso de IA (0 = Não … 3 = Sempre uso),43,17,3 [2–3],3 [2–3],-0.0137,-0.2873,0.2668,0.9323,1.0,,inconclusivo,,testado
+2026 × 2024,Q18 Desafio: Gerenciar tempo,43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q18 Desafio: Organização de estudos,43,17,72%,71%,0.015,-0.2312,0.2736,1.0,1.0,,inconclusivo,,testado
+2026 × 2024,Q18 Desafio: Tarefas de casa,43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,"Q23 Método: Leitura, anotação, resumos",43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,"Q23 Método: Prática, exercícios e listas",43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q23 Método: Grupos de estudos,43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q23 Método: Videoaulas,43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q23 Método: Método Pomodoro,43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q23 Método: Cronograma/plano de estudos,43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q23 Método: Perguntar a uma IA,43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2024,Q20 Pretende terminar (Sim),43,17,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2025,Q11 Dificuldade da transição EM→superior,43,35,8 [7–9.5],8 [6.5–9],-0.01,-0.2605,0.2498,0.9428,1.0,,inconclusivo,,testado
+2026 × 2025,Q12 Expectativa com a Matemática correspondida,43,35,8 [6–9],7 [6.5–8],0.1017,-0.1608,0.3708,0.4378,1.0,,inconclusivo,,testado
+2026 × 2025,Q13 Dificuldade com pré-requisitos,43,35,7 [4–8],7 [3–8],0.0319,-0.2306,0.2831,0.8114,1.0,,inconclusivo,,testado
+2026 × 2025,Q16 Aprendizado atribuído às aulas,43,35,4 [3–6],6 [4–7],-0.188,-0.4479,0.0678,0.1529,1.0,,inconclusivo,,testado
+2026 × 2025,Q24 Conteúdo novo visto,43,35,8 [6.5–10],9 [7.5–10],-0.1362,-0.3768,0.109,0.2905,1.0,,inconclusivo,,testado
+2026 × 2025,Q24 Quanto sente que absorveu,43,35,6 [5–7.5],6 [5–7],0.0757,-0.1854,0.3229,0.5642,1.0,,inconclusivo,,testado
+2026 × 2025,Q24 Quanto as monitorias ajudam,43,35,4 [2–6],5 [3–6],-0.1322,-0.3927,0.1243,0.3152,1.0,,inconclusivo,,testado
+2026 × 2025,Q14 Nº de matérias com apoio (0 = Não … 4 = 4+),43,35,1 [0–2],2 [0–3],-0.1243,-0.3675,0.1342,0.335,1.0,,inconclusivo,,testado
+2026 × 2025,Q17 Inclinação ao uso de IA (0 = Não … 3 = Sempre uso),43,35,3 [2–3],3 [2–3],-0.1502,-0.3635,0.0638,0.18,1.0,,inconclusivo,,testado
+2026 × 2025,Q18 Desafio: Gerenciar tempo,43,35,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2025,Q18 Desafio: Organização de estudos,43,35,72%,51%,0.2066,-0.0008,0.414,0.0984,1.0,,inconclusivo,,testado
+2026 × 2025,Q18 Desafio: Tarefas de casa,43,35,40%,34%,0.0525,-0.1654,0.2704,0.6471,1.0,,inconclusivo,,testado
+2026 × 2025,"Q23 Método: Leitura, anotação, resumos",43,35,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2025,"Q23 Método: Prática, exercícios e listas",43,35,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2025,Q23 Método: Grupos de estudos,43,35,19%,20%,-0.014,-0.1927,0.1596,1.0,1.0,,sem_associacao,indicio,testado
+2026 × 2025,Q23 Método: Videoaulas,43,35,21%,14%,0.0664,-0.107,0.2346,0.5584,1.0,,inconclusivo,,testado
+2026 × 2025,Q23 Método: Método Pomodoro,43,35,,,,,,,,,não testado,,mascarado (célula < N_MIN_CELULA)
+2026 × 2025,Q23 Método: Cronograma/plano de estudos,43,35,33%,17%,0.1542,-0.0405,0.3382,0.1918,1.0,,inconclusivo,,testado
+2026 × 2025,Q23 Método: Perguntar a uma IA,43,35,67%,69%,-0.0113,-0.2186,0.196,1.0,1.0,,sem_associacao,indicio,testado
+2026 × 2025,Q20 Pretende terminar (Sim),43,35,84%,86%,-0.0199,-0.1754,0.1409,1.0,1.0,,sem_associacao,indicio,testado

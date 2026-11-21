@@ -1,0 +1,169 @@
+família,teste,comparação,p,p_holm,efeito,medida
+Grupos: Forma de ingresso,Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por forma de ingresso,0.0897,0.5383,0.175,r
+Grupos: Forma de ingresso,Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por forma de ingresso,0.7807,1.0,0.029,r
+Grupos: Forma de ingresso,Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por forma de ingresso,0.0513,0.3594,0.2,r
+Grupos: Forma de ingresso,Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por forma de ingresso,0.6192,1.0,0.051,r
+Grupos: Forma de ingresso,Mann-Whitney U,Q24 Conteúdo novo visto — por forma de ingresso,0.2871,1.0,0.11,r
+Grupos: Forma de ingresso,Mann-Whitney U,Q24 Quanto sente que absorveu — por forma de ingresso,0.8176,1.0,0.024,r
+Grupos: Forma de ingresso,Mann-Whitney U,Q24 Quanto as monitorias ajudam — por forma de ingresso,0.9689,1.0,0.004,r
+Grupos: Turma,Kruskal-Wallis,Q11 Dificuldade da transição EM→superior — por turma,0.0793,0.5057,0.054,ε²
+Grupos: Turma,Kruskal-Wallis,Q12 Expectativa com a Matemática correspondida — por turma,0.1283,0.6413,0.044,ε²
+Grupos: Turma,Kruskal-Wallis,Q13 Dificuldade com pré-requisitos — por turma,0.0722,0.5057,0.056,ε²
+Grupos: Turma,Kruskal-Wallis,Q16 Aprendizado atribuído às aulas — por turma,0.4044,1.0,0.019,ε²
+Grupos: Turma,Kruskal-Wallis,Q24 Conteúdo novo visto — por turma,0.3756,1.0,0.021,ε²
+Grupos: Turma,Kruskal-Wallis,Q24 Quanto sente que absorveu — por turma,0.5903,1.0,0.011,ε²
+Grupos: Turma,Kruskal-Wallis,Q24 Quanto as monitorias ajudam — por turma,0.1688,0.6753,0.038,ε²
+Grupos: Idade,Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por idade,0.4739,1.0,0.074,r
+Grupos: Idade,Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por idade,0.0591,0.4135,0.194,r
+Grupos: Idade,Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por idade,0.388,1.0,0.089,r
+Grupos: Idade,Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por idade,0.8671,1.0,0.018,r
+Grupos: Idade,Mann-Whitney U,Q24 Conteúdo novo visto — por idade,0.4185,1.0,0.083,r
+Grupos: Idade,Mann-Whitney U,Q24 Quanto sente que absorveu — por idade,0.8692,1.0,0.017,r
+Grupos: Idade,Mann-Whitney U,Q24 Quanto as monitorias ajudam — por idade,0.1207,0.724,0.16,r
+Grupos: Tempo entre EM e ImpaTech,Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por tempo entre em e impatech,0.1002,0.6009,0.169,r
+Grupos: Tempo entre EM e ImpaTech,Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por tempo entre em e impatech,0.1895,0.9103,0.135,r
+Grupos: Tempo entre EM e ImpaTech,Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por tempo entre em e impatech,0.2493,0.9103,0.119,r
+Grupos: Tempo entre EM e ImpaTech,Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por tempo entre em e impatech,0.1845,0.9103,0.137,r
+Grupos: Tempo entre EM e ImpaTech,Mann-Whitney U,Q24 Conteúdo novo visto — por tempo entre em e impatech,0.1821,0.9103,0.137,r
+Grupos: Tempo entre EM e ImpaTech,Mann-Whitney U,Q24 Quanto sente que absorveu — por tempo entre em e impatech,0.8383,0.9103,0.021,r
+Grupos: Tempo entre EM e ImpaTech,Mann-Whitney U,Q24 Quanto as monitorias ajudam — por tempo entre em e impatech,0.019,0.1328,0.241,r
+Grupos: Outra graduação,Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por outra graduação,0.1761,1.0,0.139,r
+Grupos: Outra graduação,Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por outra graduação,0.4108,1.0,0.085,r
+Grupos: Outra graduação,Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por outra graduação,0.2848,1.0,0.11,r
+Grupos: Outra graduação,Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por outra graduação,1.0,1.0,0.0,r
+Grupos: Outra graduação,Mann-Whitney U,Q24 Conteúdo novo visto — por outra graduação,0.2091,1.0,0.129,r
+Grupos: Outra graduação,Mann-Whitney U,Q24 Quanto sente que absorveu — por outra graduação,0.7569,1.0,0.032,r
+Grupos: Outra graduação,Mann-Whitney U,Q24 Quanto as monitorias ajudam — por outra graduação,0.2239,1.0,0.125,r
+Grupos: Escola no EM,Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por escola no em,0.1999,1.0,0.132,r
+Grupos: Escola no EM,Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por escola no em,0.5199,1.0,0.067,r
+Grupos: Escola no EM,Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por escola no em,0.7974,1.0,0.027,r
+Grupos: Escola no EM,Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por escola no em,0.9173,1.0,0.011,r
+Grupos: Escola no EM,Mann-Whitney U,Q24 Conteúdo novo visto — por escola no em,0.3559,1.0,0.095,r
+Grupos: Escola no EM,Mann-Whitney U,Q24 Quanto sente que absorveu — por escola no em,0.7289,1.0,0.036,r
+Grupos: Escola no EM,Mann-Whitney U,Q24 Quanto as monitorias ajudam — por escola no em,0.8781,1.0,0.016,r
+Grupos: Uso de IA (Q17),Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por uso de ia (q17),0.0021,0.0145,0.316,r
+Grupos: Uso de IA (Q17),Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por uso de ia (q17),0.4662,1.0,0.075,r
+Grupos: Uso de IA (Q17),Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por uso de ia (q17),0.0127,0.0635,0.256,r
+Grupos: Uso de IA (Q17),Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por uso de ia (q17),0.7745,1.0,0.03,r
+Grupos: Uso de IA (Q17),Mann-Whitney U,Q24 Conteúdo novo visto — por uso de ia (q17),0.0413,0.1651,0.21,r
+Grupos: Uso de IA (Q17),Mann-Whitney U,Q24 Quanto sente que absorveu — por uso de ia (q17),0.0061,0.0368,0.282,r
+Grupos: Uso de IA (Q17),Mann-Whitney U,Q24 Quanto as monitorias ajudam — por uso de ia (q17),0.7829,1.0,0.029,r
+Grupos: Pretende terminar (Q20),Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por pretende terminar (q20),0.9405,1.0,0.008,r
+Grupos: Pretende terminar (Q20),Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por pretende terminar (q20),0.0292,0.2042,0.224,r
+Grupos: Pretende terminar (Q20),Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por pretende terminar (q20),0.0952,0.4762,0.172,r
+Grupos: Pretende terminar (Q20),Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por pretende terminar (q20),0.7667,1.0,0.031,r
+Grupos: Pretende terminar (Q20),Mann-Whitney U,Q24 Conteúdo novo visto — por pretende terminar (q20),0.863,1.0,0.018,r
+Grupos: Pretende terminar (Q20),Mann-Whitney U,Q24 Quanto sente que absorveu — por pretende terminar (q20),0.0714,0.4282,0.186,r
+Grupos: Pretende terminar (Q20),Mann-Whitney U,Q24 Quanto as monitorias ajudam — por pretende terminar (q20),0.6027,1.0,0.054,r
+Grupos: Trancou/reprovou (Q25),Mann-Whitney U,Q11 Dificuldade da transição EM→superior — por trancou/reprovou (q25),0.3819,1.0,0.09,r
+Grupos: Trancou/reprovou (Q25),Mann-Whitney U,Q12 Expectativa com a Matemática correspondida — por trancou/reprovou (q25),0.0229,0.1605,0.234,r
+Grupos: Trancou/reprovou (Q25),Mann-Whitney U,Q13 Dificuldade com pré-requisitos — por trancou/reprovou (q25),0.5693,1.0,0.059,r
+Grupos: Trancou/reprovou (Q25),Mann-Whitney U,Q16 Aprendizado atribuído às aulas — por trancou/reprovou (q25),0.2113,1.0,0.129,r
+Grupos: Trancou/reprovou (Q25),Mann-Whitney U,Q24 Conteúdo novo visto — por trancou/reprovou (q25),0.5868,1.0,0.056,r
+Grupos: Trancou/reprovou (Q25),Mann-Whitney U,Q24 Quanto sente que absorveu — por trancou/reprovou (q25),0.031,0.186,0.222,r
+Grupos: Trancou/reprovou (Q25),Mann-Whitney U,Q24 Quanto as monitorias ajudam — por trancou/reprovou (q25),0.6005,1.0,0.054,r
+Categóricas,Qui-quadrado,g_ingresso × g_ia,0.132,0.924,0.155,V
+Categóricas,Qui-quadrado,g_ingresso × g_apoio,0.1051,0.8404,0.166,V
+Categóricas,Fisher exato,g_ingresso × g_terminar,0.7464,1.0,0.032,V
+Categóricas,Qui-quadrado,g_turma × g_ia,0.351,1.0,0.148,V
+Categóricas,Qui-quadrado,g_turma × g_apoio,0.1788,1.0,0.19,V
+Categóricas,Qui-quadrado,g_escola × g_apoio,0.2357,1.0,0.122,V
+Categóricas,Qui-quadrado,g_tempo × g_apoio,0.4939,1.0,0.07,V
+Categóricas,Qui-quadrado,g_outra_grad × g_apoio,0.3766,1.0,0.091,V
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q12 Expectativa com a Matemática correspondida,0.907,1.0,-0.012,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q13 Dificuldade com pré-requisitos,0.0,0.0,0.506,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q16 Aprendizado atribuído às aulas,0.0134,0.3362,0.253,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q24 Conteúdo novo visto,0.0001,0.0049,0.384,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q24 Quanto sente que absorveu,0.0384,0.8528,-0.213,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q24 Quanto as monitorias ajudam,0.004,0.129,0.292,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q7 Impacto da graduação anterior (1–5),0.7624,1.0,-0.062,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q14 Nº de matérias c/ apoio (ord.),0.0,0.0005,0.433,ρ
+Spearman,Spearman,Q11 Dificuldade da transição EM→superior × Q17 Uso de IA (ord.),0.0007,0.0254,0.342,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q13 Dificuldade com pré-requisitos,0.588,1.0,-0.056,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q16 Aprendizado atribuído às aulas,0.1458,1.0,0.15,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q24 Conteúdo novo visto,0.2246,1.0,0.126,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q24 Quanto sente que absorveu,0.0064,0.1869,0.278,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q24 Quanto as monitorias ajudam,0.5732,1.0,0.059,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q7 Impacto da graduação anterior (1–5),0.7032,1.0,0.078,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q14 Nº de matérias c/ apoio (ord.),0.2896,1.0,-0.11,ρ
+Spearman,Spearman,Q12 Expectativa com a Matemática correspondida × Q17 Uso de IA (ord.),0.626,1.0,-0.051,ρ
+Spearman,Spearman,Q13 Dificuldade com pré-requisitos × Q16 Aprendizado atribuído às aulas,0.0084,0.235,0.269,ρ
+Spearman,Spearman,Q13 Dificuldade com pré-requisitos × Q24 Conteúdo novo visto,0.0002,0.0073,0.374,ρ
+Spearman,Spearman,Q13 Dificuldade com pré-requisitos × Q24 Quanto sente que absorveu,0.245,1.0,-0.12,ρ
+Spearman,Spearman,Q13 Dificuldade com pré-requisitos × Q24 Quanto as monitorias ajudam,0.0033,0.1185,0.299,ρ
+Spearman,Spearman,Q13 Dificuldade com pré-requisitos × Q7 Impacto da graduação anterior (1–5),0.5006,1.0,-0.138,ρ
+Spearman,Spearman,Q13 Dificuldade com pré-requisitos × Q14 Nº de matérias c/ apoio (ord.),0.0,0.0,0.608,ρ
+Spearman,Spearman,Q13 Dificuldade com pré-requisitos × Q17 Uso de IA (ord.),0.0058,0.1748,0.281,ρ
+Spearman,Spearman,Q16 Aprendizado atribuído às aulas × Q24 Conteúdo novo visto,0.0004,0.0137,0.358,ρ
+Spearman,Spearman,Q16 Aprendizado atribuído às aulas × Q24 Quanto sente que absorveu,0.0112,0.2921,0.259,ρ
+Spearman,Spearman,Q16 Aprendizado atribuído às aulas × Q24 Quanto as monitorias ajudam,0.0,0.0,0.7,ρ
+Spearman,Spearman,Q16 Aprendizado atribuído às aulas × Q7 Impacto da graduação anterior (1–5),0.2674,1.0,0.226,ρ
+Spearman,Spearman,Q16 Aprendizado atribuído às aulas × Q14 Nº de matérias c/ apoio (ord.),0.0371,0.8528,0.214,ρ
+Spearman,Spearman,Q16 Aprendizado atribuído às aulas × Q17 Uso de IA (ord.),0.5331,1.0,0.065,ρ
+Spearman,Spearman,Q24 Conteúdo novo visto × Q24 Quanto sente que absorveu,0.3699,1.0,0.093,ρ
+Spearman,Spearman,Q24 Conteúdo novo visto × Q24 Quanto as monitorias ajudam,0.0054,0.1687,0.283,ρ
+Spearman,Spearman,Q24 Conteúdo novo visto × Q7 Impacto da graduação anterior (1–5),0.493,1.0,-0.141,ρ
+Spearman,Spearman,Q24 Conteúdo novo visto × Q14 Nº de matérias c/ apoio (ord.),0.0038,0.1256,0.294,ρ
+Spearman,Spearman,Q24 Conteúdo novo visto × Q17 Uso de IA (ord.),0.0251,0.6022,0.23,ρ
+Spearman,Spearman,Q24 Quanto sente que absorveu × Q24 Quanto as monitorias ajudam,0.0971,1.0,0.171,ρ
+Spearman,Spearman,Q24 Quanto sente que absorveu × Q7 Impacto da graduação anterior (1–5),0.5961,1.0,-0.109,ρ
+Spearman,Spearman,Q24 Quanto sente que absorveu × Q14 Nº de matérias c/ apoio (ord.),0.0033,0.1185,-0.299,ρ
+Spearman,Spearman,Q24 Quanto sente que absorveu × Q17 Uso de IA (ord.),0.0035,0.1206,-0.296,ρ
+Spearman,Spearman,Q24 Quanto as monitorias ajudam × Q7 Impacto da graduação anterior (1–5),0.7879,1.0,-0.055,ρ
+Spearman,Spearman,Q24 Quanto as monitorias ajudam × Q14 Nº de matérias c/ apoio (ord.),0.0103,0.2786,0.262,ρ
+Spearman,Spearman,Q24 Quanto as monitorias ajudam × Q17 Uso de IA (ord.),0.5597,1.0,0.061,ρ
+Spearman,Spearman,Q7 Impacto da graduação anterior (1–5) × Q14 Nº de matérias c/ apoio (ord.),0.5344,1.0,-0.128,ρ
+Spearman,Spearman,Q7 Impacto da graduação anterior (1–5) × Q17 Uso de IA (ord.),0.1016,1.0,-0.328,ρ
+Spearman,Spearman,Q14 Nº de matérias c/ apoio (ord.) × Q17 Uso de IA (ord.),0.0001,0.0049,0.384,ρ
+Hipóteses (principal),Spearman unilateral,H01: Mais dificuldade com pré-requisitos → apoio em mais matérias,3.238994791671074e-11,8.745285937511899e-10,0.6078437983076062,ρ
+Hipóteses (principal),Spearman unilateral,H02: Transição mais difícil → apoio em mais matérias,6.010440384619882e-06,0.00015627145000011693,0.43251782879759065,ρ
+Hipóteses (principal),Spearman unilateral,H03: Mais dificuldade com pré-requisitos → mais conteúdo novo,9.399636740909696e-05,0.002255912817818327,0.3741058443412713,ρ
+Hipóteses (principal),Mann-Whitney U unilateral,H04: Precisou de apoio → mais conteúdo novo,0.007966890299933707,0.10356957389913819,0.28704566635601125,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H05: Precisou de apoio → atribui mais aprendizado às aulas,0.014213508569976122,0.11653498431610138,0.26561043802423123,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H06: Precisou de apoio → monitorias ajudam mais,0.0016717464396896044,0.031763182354102484,0.3546132339235788,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H07: Desafio tarefas de casa → apoio em mais matérias,0.005928478607240475,0.0948556577158476,0.31025641025641026,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H08: Desafio tarefas de casa → expectativa menos correspondida,0.019222875444028235,0.13456012810819765,-0.2615384615384615,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H09: Desafio tarefas de casa → mais dificuldade com pré-requisitos,0.041571395763944495,0.6235709364591674,0.22051282051282062,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H10: Desafio gerenciar tempo → mais dificuldade com pré-requisitos,0.10089884066000299,1.0,0.21340388007054667,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H11: Desafio gerenciar tempo → apoio em mais matérias,0.24906354591991314,1.0,0.11022927689594364,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H12: Sempre usa IA → apoio em mais matérias,0.00015869216967554078,0.0036499199025374377,0.42514124293785316,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H13: Sempre usa IA → mais dificuldade com pré-requisitos,0.00634589424268433,0.09518841364026494,0.3036723163841808,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H14: Sempre usa IA → transição mais difícil,0.0010392180647628144,0.021823579360019104,0.37241054613935964,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H15: Sempre usa IA → mais conteúdo novo,0.020638600530141993,0.13456012810819765,0.24435028248587565,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H16: Desafio organização → usa mais IA,0.0032193043817905897,0.055256958603434256,0.28736740597878496,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H17: Sempre usa IA → sente que absorveu menos,0.003069831033524125,0.055256958603434256,-0.3314500941619586,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H18: Desafio gerenciar tempo → usa mais IA,0.07628569127272232,0.9154282952726678,0.20458553791887124,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H19: Método leitura/resumos → usa mais IA,0.14623499432003184,1.0,0.1287001287001286,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H20: Método perguntar à IA → apoio em mais matérias,0.04295031047428705,0.6235709364591674,0.21840958605664484,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H21: Desafio tarefas de casa → usa mais IA,0.154975022684453,1.0,0.11076923076923073,r_rb
+Hipóteses (ausência),"equivalência (TOST bootstrap, ±0.2) sobre Mann-Whitney U",H22: Sempre usar IA não se relaciona com o aprendizado atribuído às aulas,0.0972,0.42500000000000004,0.035310734463276816,r_rb · equivalência
+Hipóteses (ausência),"equivalência (TOST bootstrap, ±0.2) sobre Spearman",H23: A turma não se relaciona com o uso de IA,0.1092,0.42500000000000004,-0.06652789306870904,ρ · equivalência
+Hipóteses (principal),Mann-Whitney U unilateral,H24: Método perguntar à IA → usa IA com mais frequência,3.956511057968491e-05,0.0009891277644921228,0.44226579520697173,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H25: Grupos de estudo → mais dificuldade com pré-requisitos,0.0006131486366824372,0.01348927000701362,0.4984917043740573,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H26: Grupos de estudo → transição mais difícil,0.026892209421433364,0.13456012810819765,0.2956259426847663,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H27: Grupos de estudo → monitorias ajudam mais,0.0011251299371148704,0.02250259874229741,0.4698340874811464,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H29: Grupos de estudo → sente que absorve mais,0.16069836635697626,1.0,0.15233785822021106,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H30: Método leitura/resumos → expectativa menos correspondida,0.01294833159067793,0.11653498431610138,-0.3153153153153153,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H31: Cronograma → mais dificuldade com pré-requisitos,0.00897208191983176,0.10356957389913819,0.32669082125603865,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H32: Cronograma → apoio em mais matérias,0.013371703482593639,0.2406906626866855,0.2964975845410629,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H33: Prática/exercícios → apoio em mais matérias,0.13142659631270914,1.0,0.2012987012987013,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H34: Desafio gerenciar tempo → atribui mais aprendizado às aulas,0.04601916366222275,0.13805749098666825,0.281305114638448,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H35: Desafio organização → expectativa mais correspondida,0.03364161979831375,0.134566479193255,0.22420443587270977,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H36: Desafio organização → apoio em mais matérias,0.0067122027085776866,0.09518841364026494,0.29556412729026027,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H37: Desafio organização → sente que absorveu menos,0.00823515172726934,0.10356957389913819,-0.29363548698167796,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H38: Desafio organização → mais dificuldade com pré-requisitos,0.02651326284024757,0.4363662800322367,0.23866923818707808,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H39: Desafio organização → transição mais difícil,0.00815654682926647,0.15497438975606292,0.2941176470588236,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H40: ENEM → mais dificuldade com pré-requisitos,0.02566860470777863,0.4363662800322367,0.26525821596244126,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H41: ENEM → mais conteúdo novo,0.14356835251385636,1.0,0.142605633802817,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H42: ENEM → transição mais difícil,0.044856418236859145,0.6235709364591674,0.2294600938967135,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H43: Entrou ≥ 1 ano após o EM → transição menos difícil,0.05007837456169712,0.13805749098666825,-0.20436507936507942,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H44: Entrou ≥ 1 ano após o EM → atribui menos aprendizado às aulas,0.09223254367943079,0.13805749098666825,-0.16617063492063489,r_rb
+Hipóteses (principal),Mann-Whitney U unilateral,H45: Entrou ≥ 1 ano após o EM → monitorias ajudam menos,0.009482395306650966,0.10356957389913819,-0.2926587301587301,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H46: Outra graduação → transição menos difícil,0.08807170931927866,0.9687888025120652,-0.17837235228539572,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H47a: Outra graduação → menos conteúdo novo,0.10455755821133916,1.0,-0.16387959866220736,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H47b: Outra graduação → menos dificuldade com pré-requisitos,0.14240344118584886,1.0,-0.14214046822742477,r_rb
+Hipóteses (secundária),Mann-Whitney U unilateral,H48: Outra graduação → monitorias ajudam menos,0.11196748813523844,1.0,-0.1610925306577481,r_rb
+Hipóteses (ausência),"equivalência (TOST bootstrap, ±0.2) sobre Mann-Whitney U",H49: Outra graduação não se relaciona com o nº de matérias com apoio,0.0866,0.42500000000000004,-0.021181716833890696,r_rb · equivalência
+Hipóteses (ausência),"equivalência (TOST bootstrap, ±0.2) sobre Mann-Whitney U",H50: Escola privada não se relaciona com a dificuldade com pré-requisitos,0.227,0.42500000000000004,-0.04502814258911825,r_rb · equivalência
+Hipóteses (ausência),"equivalência (TOST bootstrap, ±0.2) sobre Spearman",H51: A turma não se relaciona com o nº de matérias com apoio,0.0594,0.3564,0.03663082049735275,ρ · equivalência
+Hipóteses (ausência),"equivalência (TOST bootstrap, ±0.2) sobre Spearman",H52: A turma não se relaciona com o quanto as monitorias ajudam,0.085,0.42500000000000004,0.051172839964954135,ρ · equivalência

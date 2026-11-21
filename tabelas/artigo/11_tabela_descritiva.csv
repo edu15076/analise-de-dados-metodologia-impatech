@@ -1,0 +1,41 @@
+tipo,variável,categoria,n,%,mediana,IQR,n válido
+escala/ordinal,Dificuldade da transição EM→superior,,97,,8.0,6–9,
+escala/ordinal,Expectativa com a Matemática correspondida,,97,,8.0,6–9,
+escala/ordinal,Dificuldade com pré-requisitos,,97,,6.0,3–8,
+escala/ordinal,Aprendizado atribuído às aulas,,97,,5.0,3–7,
+escala/ordinal,Conteúdo novo visto,,97,,9.0,7–10,
+escala/ordinal,Quanto sente que absorveu,,97,,6.0,5–7,
+escala/ordinal,Quanto as monitorias ajudam,,97,,4.0,2–6,
+escala/ordinal,Nº de disciplinas em que precisou de apoio,,97,,1.0,0–2,
+escala/ordinal,Inclinação ao uso de IA devido ao ritmo do curso,,97,,3.0,2–3,
+categórica,Turma,Turma 2026,48,44.4,,,108.0
+categórica,Turma,Turma 2025,39,36.1,,,108.0
+categórica,Turma,Turma 2024,21,19.4,,,108.0
+categórica,Idade,20 - 22 anos,51,47.2,,,108.0
+categórica,Idade,17 - 19 anos,44,40.7,,,108.0
+categórica,Idade,23 anos ou mais,13,12.0,,,108.0
+categórica,Forma de ingresso,Medalhas,73,75.3,,,97.0
+categórica,Forma de ingresso,ENEM,24,24.7,,,97.0
+categórica,Momento de ingresso após o EM,Imediatamente,69,63.9,,2 categorias agrupadas em 'Outras' (privacidade),108.0
+categórica,Momento de ingresso após o EM,Após 1 ano,18,16.7,,2 categorias agrupadas em 'Outras' (privacidade),108.0
+categórica,Momento de ingresso após o EM,Após 4 anos ou mais,11,10.2,,2 categorias agrupadas em 'Outras' (privacidade),108.0
+categórica,Momento de ingresso após o EM,Outras (agrupadas),10,9.3,,2 categorias agrupadas em 'Outras' (privacidade),108.0
+categórica,Outra graduação,Não,79,73.1,,,108.0
+categórica,Outra graduação,Sim (completa ou incompleta),29,26.9,,,108.0
+categórica,Pretende terminar o curso,Sim,83,85.6,,2 categorias agrupadas em 'Outras' (privacidade),97.0
+categórica,Pretende terminar o curso,Outras (agrupadas),14,14.4,,2 categorias agrupadas em 'Outras' (privacidade),97.0
+categórica,"Método: leitura e anotação, resumos",marcou,75,77.3,,,97.0
+categórica,"Método: leitura e anotação, resumos",não marcou,22,22.7,,,97.0
+categórica,Método: grupos de estudos,não marcou,80,82.5,,,97.0
+categórica,Método: grupos de estudos,marcou,17,17.5,,,97.0
+categórica,Método: cronograma ou plano de estudos,não marcou,74,76.3,,,97.0
+categórica,Método: cronograma ou plano de estudos,marcou,23,23.7,,,97.0
+categórica,Método: perguntar a uma IA,marcou,68,70.1,,,97.0
+categórica,Método: perguntar a uma IA,não marcou,29,29.9,,,97.0
+categórica,Desafio: gerenciar tempo,marcou,82,84.5,,,97.0
+categórica,Desafio: gerenciar tempo,não marcou,15,15.5,,,97.0
+categórica,Desafio: organização de estudos,marcou,62,63.9,,,97.0
+categórica,Desafio: organização de estudos,não marcou,35,36.1,,,97.0
+categórica,Desafio: tarefas de casa,não marcou,67,69.1,,,97.0
+categórica,Desafio: tarefas de casa,marcou,30,30.9,,,97.0
+categórica,Relatou reprovação ou trancamento (qualquer),sim,11,11.3,,número insuficiente para comparações; não comparado,97.0

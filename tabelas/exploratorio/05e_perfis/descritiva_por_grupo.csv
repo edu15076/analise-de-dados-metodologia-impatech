@@ -1,0 +1,288 @@
+desfecho,grupo,n,mediana,IQR,média,DP,linha
+Q11 Dific. transição,ENEM,24,8.0,2.25,7.875,2.472676775234201,Ingresso: ENEM (vs Medalhas)
+Q11 Dific. transição,Medalhas,71,8.0,3.0,6.929577464788732,2.679679851144119,Ingresso: ENEM (vs Medalhas)
+Q12 Expectativa Mat.,ENEM,24,7.5,2.25,7.0,2.206709137469482,Ingresso: ENEM (vs Medalhas)
+Q12 Expectativa Mat.,Medalhas,71,8.0,2.5,7.211267605633803,2.069613441875742,Ingresso: ENEM (vs Medalhas)
+Q13 Dific. pré-requisitos,ENEM,24,7.0,4.0,6.625,2.8408893279945002,Ingresso: ENEM (vs Medalhas)
+Q13 Dific. pré-requisitos,Medalhas,71,5.0,5.0,5.197183098591549,2.9111594072752878,Ingresso: ENEM (vs Medalhas)
+Q16 Aprendizado nas aulas,ENEM,24,5.0,4.0,4.75,2.3078316568852544,Ingresso: ENEM (vs Medalhas)
+Q16 Aprendizado nas aulas,Medalhas,71,5.0,3.0,5.042253521126761,2.3017795582567966,Ingresso: ENEM (vs Medalhas)
+Q24 Conteúdo novo,ENEM,24,9.0,3.0,8.208333333333334,2.340181462058513,Ingresso: ENEM (vs Medalhas)
+Q24 Conteúdo novo,Medalhas,71,8.0,3.0,7.845070422535211,2.227412895997402,Ingresso: ENEM (vs Medalhas)
+Q24 Absorveu,ENEM,24,6.0,2.0,5.708333333333333,1.966660525659781,Ingresso: ENEM (vs Medalhas)
+Q24 Absorveu,Medalhas,71,6.0,2.0,5.859154929577465,1.8616104751983453,Ingresso: ENEM (vs Medalhas)
+Q24 Monitorias ajudam,ENEM,24,4.0,4.25,4.25,2.6580476653559746,Ingresso: ENEM (vs Medalhas)
+Q24 Monitorias ajudam,Medalhas,71,4.0,4.0,4.253521126760563,2.4768546289838476,Ingresso: ENEM (vs Medalhas)
+Q11 Dific. transição,Iniciou outra graduação,26,8.0,4.75,6.384615384615385,3.2009613940430217,Iniciou outra graduação (completa ou não)
+Q11 Dific. transição,Não iniciou,69,8.0,3.0,7.463768115942029,2.367548435090161,Iniciou outra graduação (completa ou não)
+Q12 Expectativa Mat.,Iniciou outra graduação,26,7.0,2.0,6.769230769230769,2.405122737952345,Iniciou outra graduação (completa ou não)
+Q12 Expectativa Mat.,Não iniciou,69,8.0,3.0,7.304347826086956,1.9651698611367427,Iniciou outra graduação (completa ou não)
+Q13 Dific. pré-requisitos,Iniciou outra graduação,26,4.0,5.75,4.961538461538462,3.2060039829141727,Iniciou outra graduação (completa ou não)
+Q13 Dific. pré-requisitos,Não iniciou,69,7.0,5.0,5.782608695652174,2.8329446601672847,Iniciou outra graduação (completa ou não)
+Q16 Aprendizado nas aulas,Iniciou outra graduação,26,5.0,3.75,4.961538461538462,2.7052655208798893,Iniciou outra graduação (completa ou não)
+Q16 Aprendizado nas aulas,Não iniciou,69,5.0,4.0,4.971014492753623,2.141817634440112,Iniciou outra graduação (completa ou não)
+Q24 Conteúdo novo,Iniciou outra graduação,26,7.5,2.75,7.538461538461538,2.26681749121131,Iniciou outra graduação (completa ou não)
+Q24 Conteúdo novo,Não iniciou,69,9.0,3.0,8.08695652173913,2.2409237225828957,Iniciou outra graduação (completa ou não)
+Q24 Absorveu,Iniciou outra graduação,26,6.0,2.0,5.6923076923076925,2.1310885625751133,Iniciou outra graduação (completa ou não)
+Q24 Absorveu,Não iniciou,69,6.0,2.0,5.869565217391305,1.7897834528747167,Iniciou outra graduação (completa ou não)
+Q24 Monitorias ajudam,Iniciou outra graduação,26,3.0,4.0,3.769230769230769,2.4868886956627922,Iniciou outra graduação (completa ou não)
+Q24 Monitorias ajudam,Não iniciou,69,5.0,4.0,4.434782608695652,2.5116098708243895,Iniciou outra graduação (completa ou não)
+Q11 Dific. transição,Alguma escola privada,13,6.0,6.0,6.076923076923077,3.3282011773513744,Estudou em escola privada
+Q11 Dific. transição,Só escola pública,82,8.0,2.0,7.341463414634147,2.505399168290783,Estudou em escola privada
+Q12 Expectativa Mat.,Alguma escola privada,13,7.0,4.0,6.615384615384615,2.5012817227194257,Estudou em escola privada
+Q12 Expectativa Mat.,Só escola pública,82,8.0,2.75,7.2439024390243905,2.0279587475395973,Estudou em escola privada
+Q13 Dific. pré-requisitos,Alguma escola privada,13,4.0,7.0,5.230769230769231,3.654993072356548,Estudou em escola privada
+Q13 Dific. pré-requisitos,Só escola pública,82,7.0,5.0,5.609756097560975,2.8404316206571547,Estudou em escola privada
+Q16 Aprendizado nas aulas,Alguma escola privada,13,5.0,4.0,4.846153846153846,2.4781092875467863,Estudou em escola privada
+Q16 Aprendizado nas aulas,Só escola pública,82,5.0,3.75,4.987804878048781,2.279776372176974,Estudou em escola privada
+Q24 Conteúdo novo,Alguma escola privada,13,7.0,4.0,7.384615384615385,2.433737233777904,Estudou em escola privada
+Q24 Conteúdo novo,Só escola pública,82,9.0,3.0,8.024390243902438,2.222086716735818,Estudou em escola privada
+Q24 Absorveu,Alguma escola privada,13,6.0,2.0,5.6923076923076925,1.9741924671712983,Estudou em escola privada
+Q24 Absorveu,Só escola pública,82,6.0,2.0,5.841463414634147,1.8755707753142477,Estudou em escola privada
+Q24 Monitorias ajudam,Alguma escola privada,13,5.0,5.0,4.3076923076923075,2.7804260879888956,Estudou em escola privada
+Q24 Monitorias ajudam,Só escola pública,82,4.0,4.0,4.2439024390243905,2.4823374866789885,Estudou em escola privada
+Q11 Dific. transição,Após ≥ 1 ano,32,8.0,5.0,6.3125,3.176907605751837,Entrou ≥ 1 ano após o EM
+Q11 Dific. transição,Imediatamente,63,8.0,2.0,7.603174603174603,2.239957391153525,Entrou ≥ 1 ano após o EM
+Q12 Expectativa Mat.,Após ≥ 1 ano,32,7.0,2.25,6.71875,2.2609500572304384,Entrou ≥ 1 ano após o EM
+Q12 Expectativa Mat.,Imediatamente,63,8.0,2.5,7.380952380952381,1.9872867824650695,Entrou ≥ 1 ano após o EM
+Q13 Dific. pré-requisitos,Após ≥ 1 ano,32,4.0,5.25,5.03125,3.1365110573538915,Entrou ≥ 1 ano após o EM
+Q13 Dific. pré-requisitos,Imediatamente,63,7.0,4.5,5.825396825396825,2.831502977957697,Entrou ≥ 1 ano após o EM
+Q16 Aprendizado nas aulas,Após ≥ 1 ano,32,4.0,4.25,4.5625,2.4748737341529163,Entrou ≥ 1 ano após o EM
+Q16 Aprendizado nas aulas,Imediatamente,63,6.0,3.0,5.174603174603175,2.188972969812648,Entrou ≥ 1 ano após o EM
+Q24 Conteúdo novo,Após ≥ 1 ano,32,8.0,2.25,7.625,2.1515185934740413,Entrou ≥ 1 ano após o EM
+Q24 Conteúdo novo,Imediatamente,63,9.0,3.0,8.095238095238095,2.2980657063677294,Entrou ≥ 1 ano após o EM
+Q24 Absorveu,Após ≥ 1 ano,32,5.5,3.25,5.75,2.109884571066817,Entrou ≥ 1 ano após o EM
+Q24 Absorveu,Imediatamente,63,6.0,2.0,5.857142857142857,1.7676040176277152,Entrou ≥ 1 ano após o EM
+Q24 Monitorias ajudam,Após ≥ 1 ano,32,3.0,4.0,3.40625,2.2555934059362794,Entrou ≥ 1 ano após o EM
+Q24 Monitorias ajudam,Imediatamente,63,5.0,4.0,4.682539682539683,2.538893566645663,Entrou ≥ 1 ano após o EM
+Q11 Dific. transição,20+ anos,55,8.0,3.5,6.872727272727273,2.9755456732962533,Idade 20+ (vs 17–19)
+Q11 Dific. transição,17–19 anos,40,8.0,2.25,7.575,2.08643359065299,Idade 20+ (vs 17–19)
+Q12 Expectativa Mat.,20+ anos,55,7.0,2.0,6.745454545454545,2.327120154931458,Idade 20+ (vs 17–19)
+Q12 Expectativa Mat.,17–19 anos,40,8.0,2.0,7.725,1.5849856425783444,Idade 20+ (vs 17–19)
+Q13 Dific. pré-requisitos,20+ anos,55,6.0,5.5,5.2727272727272725,3.1590818254356723,Idade 20+ (vs 17–19)
+Q13 Dific. pré-requisitos,17–19 anos,40,7.0,4.0,5.95,2.611120203657564,Idade 20+ (vs 17–19)
+Q16 Aprendizado nas aulas,20+ anos,55,5.0,3.5,4.927272727272728,2.332178646471415,Idade 20+ (vs 17–19)
+Q16 Aprendizado nas aulas,17–19 anos,40,5.0,4.0,5.025,2.270067207860844,Idade 20+ (vs 17–19)
+Q24 Conteúdo novo,20+ anos,55,8.0,3.0,7.818181818181818,2.2368207356350673,Idade 20+ (vs 17–19)
+Q24 Conteúdo novo,17–19 anos,40,9.0,3.0,8.1,2.2848441567233464,Idade 20+ (vs 17–19)
+Q24 Absorveu,20+ anos,55,6.0,2.0,5.763636363636364,1.9528102860923315,Idade 20+ (vs 17–19)
+Q24 Absorveu,17–19 anos,40,6.0,2.0,5.9,1.7945787306531915,Idade 20+ (vs 17–19)
+Q24 Monitorias ajudam,20+ anos,55,4.0,5.0,3.9272727272727272,2.485919946377594,Idade 20+ (vs 17–19)
+Q24 Monitorias ajudam,17–19 anos,40,5.0,3.5,4.7,2.503331114069145,Idade 20+ (vs 17–19)
+Q11 Dific. transição,Turma 2024,17,7.0,6.0,5.823529411764706,3.1071549309144344,Turma (2024 → 2026)
+Q11 Dific. transição,Turma 2025,35,8.0,2.5,7.542857142857143,2.2924794840682763,Turma (2024 → 2026)
+Q11 Dific. transição,Turma 2026,43,8.0,2.5,7.395348837209302,2.619883084302672,Turma (2024 → 2026)
+Q12 Expectativa Mat.,Turma 2024,17,8.0,1.0,7.705882352941177,2.4177651323679306,Turma (2024 → 2026)
+Q12 Expectativa Mat.,Turma 2025,35,7.0,1.5,6.9714285714285715,1.854814312661454,Turma (2024 → 2026)
+Q12 Expectativa Mat.,Turma 2026,43,8.0,3.0,7.093023255813954,2.1581953824828046,Turma (2024 → 2026)
+Q13 Dific. pré-requisitos,Turma 2024,17,3.0,4.0,4.0,2.8939592256975564,Turma (2024 → 2026)
+Q13 Dific. pré-requisitos,Turma 2025,35,7.0,5.0,5.771428571428571,3.0301010882546504,Turma (2024 → 2026)
+Q13 Dific. pré-requisitos,Turma 2026,43,7.0,4.0,6.0,2.7516228977511745,Turma (2024 → 2026)
+Q16 Aprendizado nas aulas,Turma 2024,17,6.0,5.0,4.823529411764706,2.6747732174346823,Turma (2024 → 2026)
+Q16 Aprendizado nas aulas,Turma 2025,35,6.0,3.0,5.3428571428571425,2.127451625811517,Turma (2024 → 2026)
+Q16 Aprendizado nas aulas,Turma 2026,43,4.0,3.0,4.72093023255814,2.2816616897439426,Turma (2024 → 2026)
+Q24 Conteúdo novo,Turma 2024,17,8.0,2.0,7.588235294117647,2.3467750086398294,Turma (2024 → 2026)
+Q24 Conteúdo novo,Turma 2025,35,9.0,2.5,8.371428571428572,1.9415838635401932,Turma (2024 → 2026)
+Q24 Conteúdo novo,Turma 2026,43,8.0,3.5,7.72093023255814,2.4331596291100377,Turma (2024 → 2026)
+Q24 Absorveu,Turma 2024,17,7.0,2.0,6.176470588235294,1.9116515803633993,Turma (2024 → 2026)
+Q24 Absorveu,Turma 2025,35,6.0,2.0,5.628571428571429,1.832480066270111,Turma (2024 → 2026)
+Q24 Absorveu,Turma 2026,43,6.0,2.5,5.837209302325581,1.926386112686006,Turma (2024 → 2026)
+Q24 Monitorias ajudam,Turma 2024,17,2.0,4.0,3.411764705882353,2.8297266548513957,Turma (2024 → 2026)
+Q24 Monitorias ajudam,Turma 2025,35,5.0,3.0,4.714285714285714,2.269638848848354,Turma (2024 → 2026)
+Q24 Monitorias ajudam,Turma 2026,43,4.0,4.0,4.209302325581396,2.5313100272471725,Turma (2024 → 2026)
+Q11 Dific. transição,Sempre usa IA,59,8.0,3.0,7.728813559322034,2.4199637249673396,Sempre usa IA
+Q11 Dific. transição,Às vezes / não usa,36,7.0,2.5,6.25,2.7813152079033197,Sempre usa IA
+Q12 Expectativa Mat.,Sempre usa IA,59,7.0,2.0,7.0508474576271185,2.096168333704663,Sempre usa IA
+Q12 Expectativa Mat.,Às vezes / não usa,36,8.0,3.0,7.333333333333333,2.1111946516469904,Sempre usa IA
+Q13 Dific. pré-requisitos,Sempre usa IA,59,7.0,5.0,6.169491525423729,2.811016151849972,Sempre usa IA
+Q13 Dific. pré-requisitos,Às vezes / não usa,36,4.0,6.25,4.555555555555555,2.922273522393573,Sempre usa IA
+Q16 Aprendizado nas aulas,Sempre usa IA,59,5.0,4.0,5.033898305084746,2.157313956456319,Sempre usa IA
+Q16 Aprendizado nas aulas,Às vezes / não usa,36,5.0,4.25,4.861111111111111,2.53154698924001,Sempre usa IA
+Q24 Conteúdo novo,Sempre usa IA,59,9.0,3.0,8.288135593220339,2.1095092374002054,Sempre usa IA
+Q24 Conteúdo novo,Às vezes / não usa,36,8.0,3.25,7.361111111111111,2.3803094370003692,Sempre usa IA
+Q24 Absorveu,Sempre usa IA,59,6.0,2.0,5.47457627118644,1.7355902524083333,Sempre usa IA
+Q24 Absorveu,Às vezes / não usa,36,7.0,3.0,6.388888888888889,1.989655789007274,Sempre usa IA
+Q24 Monitorias ajudam,Sempre usa IA,59,5.0,3.5,4.254237288135593,2.2483190681882155,Sempre usa IA
+Q24 Monitorias ajudam,Às vezes / não usa,36,4.0,5.0,4.25,2.921594476602509,Sempre usa IA
+Q11 Dific. transição,Precisou de apoio,58,8.0,2.5,8.0,1.955648588961926,Precisou de apoio
+Q11 Dific. transição,Não precisou de apoio,37,6.0,5.0,5.864864864864865,3.0655991091298773,Precisou de apoio
+Q12 Expectativa Mat.,Precisou de apoio,58,7.0,2.0,7.051724137931035,2.1144649175328767,Precisou de apoio
+Q12 Expectativa Mat.,Não precisou de apoio,37,8.0,3.0,7.324324324324325,2.0823871725345255,Precisou de apoio
+Q13 Dific. pré-requisitos,Precisou de apoio,58,7.0,1.75,7.017241379310345,2.139776831373374,Precisou de apoio
+Q13 Dific. pré-requisitos,Não precisou de apoio,37,3.0,3.0,3.27027027027027,2.567409509912977,Precisou de apoio
+Q16 Aprendizado nas aulas,Precisou de apoio,58,6.0,3.0,5.396551724137931,1.9994705893382263,Precisou de apoio
+Q16 Aprendizado nas aulas,Não precisou de apoio,37,4.0,4.0,4.297297297297297,2.5805346653666867,Precisou de apoio
+Q24 Conteúdo novo,Precisou de apoio,58,9.0,3.0,8.344827586206897,2.0736587221786897,Precisou de apoio
+Q24 Conteúdo novo,Não precisou de apoio,37,8.0,2.0,7.297297297297297,2.3905469488622715,Precisou de apoio
+Q24 Absorveu,Precisou de apoio,58,6.0,2.75,5.482758620689655,1.769541315434495,Precisou de apoio
+Q24 Absorveu,Não precisou de apoio,37,7.0,3.0,6.351351351351352,1.946738243778498,Precisou de apoio
+Q24 Monitorias ajudam,Precisou de apoio,58,5.0,3.75,4.862068965517241,2.3947916868133836,Precisou de apoio
+Q24 Monitorias ajudam,Não precisou de apoio,37,3.0,4.0,3.2972972972972974,2.413674755601058,Precisou de apoio
+Q11 Dific. transição,Não / não tem certeza,14,8.0,2.5,7.285714285714286,2.493948720358985,Não/incerto sobre terminar
+Q11 Dific. transição,Pretende terminar,81,8.0,3.0,7.148148148148148,2.6884526735238947,Não/incerto sobre terminar
+Q12 Expectativa Mat.,Não / não tem certeza,14,6.5,4.5,5.785714285714286,2.6654072117400007,Não/incerto sobre terminar
+Q12 Expectativa Mat.,Pretende terminar,81,8.0,2.0,7.395061728395062,1.901834721694284,Não/incerto sobre terminar
+Q13 Dific. pré-requisitos,Não / não tem certeza,14,7.5,2.5,6.785714285714286,2.6363894724697734,Não/incerto sobre terminar
+Q13 Dific. pré-requisitos,Pretende terminar,81,5.0,5.0,5.345679012345679,2.9587180240230753,Não/incerto sobre terminar
+Q16 Aprendizado nas aulas,Não / não tem certeza,14,5.5,1.75,5.142857142857143,2.2822776362202757,Não/incerto sobre terminar
+Q16 Aprendizado nas aulas,Pretende terminar,81,5.0,4.0,4.938271604938271,2.309467898739587,Não/incerto sobre terminar
+Q24 Conteúdo novo,Não / não tem certeza,14,9.0,4.0,7.857142857142857,2.3157368940873577,Não/incerto sobre terminar
+Q24 Conteúdo novo,Pretende terminar,81,8.0,3.0,7.950617283950617,2.2522279778471654,Não/incerto sobre terminar
+Q24 Absorveu,Não / não tem certeza,14,5.0,2.75,4.928571428571429,2.05554730553075,Não/incerto sobre terminar
+Q24 Absorveu,Pretende terminar,81,6.0,2.0,5.9753086419753085,1.8164203026968684,Não/incerto sobre terminar
+Q24 Monitorias ajudam,Não / não tem certeza,14,5.0,4.5,4.5,2.5038431998091992,Não/incerto sobre terminar
+Q24 Monitorias ajudam,Pretende terminar,81,4.0,4.0,4.209876543209877,2.5234700780013024,Não/incerto sobre terminar
+Q11 Dific. transição,Trancou/reprovou,11,8.0,3.0,8.0,1.9493588689617927,Trancou/reprovou
+Q11 Dific. transição,Não trancou/reprovou,84,8.0,3.0,7.059523809523809,2.716975597427522,Trancou/reprovou
+Q12 Expectativa Mat.,Trancou/reprovou,11,6.0,3.5,5.7272727272727275,2.5334130768948473,Trancou/reprovou
+Q12 Expectativa Mat.,Não trancou/reprovou,84,8.0,2.0,7.345238095238095,1.972668962140865,Trancou/reprovou
+Q13 Dific. pré-requisitos,Trancou/reprovou,11,5.0,5.0,5.090909090909091,3.1130225008677805,Trancou/reprovou
+Q13 Dific. pré-requisitos,Não trancou/reprovou,84,7.0,5.0,5.619047619047619,2.9367007219386907,Trancou/reprovou
+Q16 Aprendizado nas aulas,Trancou/reprovou,11,4.0,3.0,4.090909090909091,2.5477262590217755,Trancou/reprovou
+Q16 Aprendizado nas aulas,Não trancou/reprovou,84,5.5,3.25,5.083333333333333,2.250613481737081,Trancou/reprovou
+Q24 Conteúdo novo,Trancou/reprovou,11,9.0,4.0,7.454545454545454,2.7336289566668097,Trancou/reprovou
+Q24 Conteúdo novo,Não trancou/reprovou,84,8.5,3.0,8.0,2.1897901093236234,Trancou/reprovou
+Q24 Absorveu,Trancou/reprovou,11,5.0,3.0,4.545454545454546,2.0670576365276494,Trancou/reprovou
+Q24 Absorveu,Não trancou/reprovou,84,6.0,2.0,5.988095238095238,1.800227881284857,Trancou/reprovou
+Q24 Monitorias ajudam,Trancou/reprovou,11,3.0,4.5,4.090909090909091,3.238967287718277,Trancou/reprovou
+Q24 Monitorias ajudam,Não trancou/reprovou,84,4.0,4.0,4.273809523809524,2.4215458095728875,Trancou/reprovou
+Q11 Dific. transição,Marcou,81,8.0,3.0,7.234567901234568,2.589747115734814,Desafio: Gerenciar tempo
+Q11 Dific. transição,Não marcou,14,7.5,2.5,6.785714285714286,3.0427359001795997,Desafio: Gerenciar tempo
+Q12 Expectativa Mat.,Marcou,81,8.0,3.0,7.234567901234568,2.057131527991536,Desafio: Gerenciar tempo
+Q12 Expectativa Mat.,Não marcou,14,7.0,2.75,6.714285714285714,2.334641182398154,Desafio: Gerenciar tempo
+Q13 Dific. pré-requisitos,Marcou,81,7.0,5.0,5.7407407407407405,2.8669573496033114,Desafio: Gerenciar tempo
+Q13 Dific. pré-requisitos,Não marcou,14,3.5,6.75,4.5,3.275785284595013,Desafio: Gerenciar tempo
+Q16 Aprendizado nas aulas,Marcou,81,6.0,4.0,5.1234567901234565,2.325847781183147,Desafio: Gerenciar tempo
+Q16 Aprendizado nas aulas,Não marcou,14,4.0,1.75,4.071428571428571,1.9400351192017797,Desafio: Gerenciar tempo
+Q24 Conteúdo novo,Marcou,81,9.0,3.0,8.074074074074074,2.1081851067789197,Desafio: Gerenciar tempo
+Q24 Conteúdo novo,Não marcou,14,7.5,5.5,7.142857142857143,2.9050921568102512,Desafio: Gerenciar tempo
+Q24 Absorveu,Marcou,81,6.0,2.0,5.839506172839506,1.8402227455083853,Desafio: Gerenciar tempo
+Q24 Absorveu,Não marcou,14,5.5,3.75,5.714285714285714,2.1636355241395626,Desafio: Gerenciar tempo
+Q24 Monitorias ajudam,Marcou,81,4.0,4.0,4.296296296296297,2.436413575547286,Desafio: Gerenciar tempo
+Q24 Monitorias ajudam,Não marcou,14,4.0,4.75,4.0,2.9871519752227074,Desafio: Gerenciar tempo
+Q11 Dific. transição,Marcou,61,8.0,3.0,7.573770491803279,2.578494498691324,Desafio: Organização de estudos
+Q11 Dific. transição,Não marcou,34,7.0,3.5,6.4411764705882355,2.6536558712587346,Desafio: Organização de estudos
+Q12 Expectativa Mat.,Marcou,61,8.0,2.0,7.426229508196721,1.995486710833914,Desafio: Organização de estudos
+Q12 Expectativa Mat.,Não marcou,34,7.0,2.0,6.676470588235294,2.2118220685093766,Desafio: Organização de estudos
+Q13 Dific. pré-requisitos,Marcou,61,7.0,4.0,6.049180327868853,2.7290183186645263,Desafio: Organização de estudos
+Q13 Dific. pré-requisitos,Não marcou,34,4.0,6.75,4.676470588235294,3.1499936338107304,Desafio: Organização de estudos
+Q16 Aprendizado nas aulas,Marcou,61,5.0,4.0,5.049180327868853,2.276153403648333,Desafio: Organização de estudos
+Q16 Aprendizado nas aulas,Não marcou,34,5.5,4.0,4.823529411764706,2.354500374657063,Desafio: Organização de estudos
+Q24 Conteúdo novo,Marcou,61,9.0,3.0,8.049180327868852,2.333996783118297,Desafio: Organização de estudos
+Q24 Conteúdo novo,Não marcou,34,8.0,2.75,7.735294117647059,2.1078327736759697,Desafio: Organização de estudos
+Q24 Absorveu,Marcou,61,6.0,2.0,5.524590163934426,1.8221466953115968,Desafio: Organização de estudos
+Q24 Absorveu,Não marcou,34,7.0,2.75,6.352941176470588,1.8890811128642395,Desafio: Organização de estudos
+Q24 Monitorias ajudam,Marcou,61,5.0,4.0,4.262295081967213,2.4351703523180355,Desafio: Organização de estudos
+Q24 Monitorias ajudam,Não marcou,34,4.0,4.75,4.235294117647059,2.674898168884891,Desafio: Organização de estudos
+Q11 Dific. transição,Marcou,30,8.0,4.25,6.8,2.8695788469077983,Desafio: Tarefas de casa
+Q11 Dific. transição,Não marcou,65,8.0,3.0,7.338461538461538,2.5450744284114455,Desafio: Tarefas de casa
+Q12 Expectativa Mat.,Marcou,30,7.0,2.75,6.566666666666666,2.1444930810596343,Desafio: Tarefas de casa
+Q12 Expectativa Mat.,Não marcou,65,8.0,2.0,7.430769230769231,2.030772872957107,Desafio: Tarefas de casa
+Q13 Dific. pré-requisitos,Marcou,30,7.0,4.0,6.333333333333333,2.8324880415894307,Desafio: Tarefas de casa
+Q13 Dific. pré-requisitos,Não marcou,65,5.0,5.0,5.2,2.9485165761786045,Desafio: Tarefas de casa
+Q16 Aprendizado nas aulas,Marcou,30,4.5,3.75,4.933333333333334,2.1161665623339365,Desafio: Tarefas de casa
+Q16 Aprendizado nas aulas,Não marcou,65,6.0,4.0,4.984615384615385,2.388071317064173,Desafio: Tarefas de casa
+Q24 Conteúdo novo,Marcou,30,7.5,3.5,7.7,1.9852907369815704,Desafio: Tarefas de casa
+Q24 Conteúdo novo,Não marcou,65,9.0,3.0,8.046153846153846,2.3679551386083175,Desafio: Tarefas de casa
+Q24 Absorveu,Marcou,30,6.0,2.75,5.766666666666667,1.959650449712262,Desafio: Tarefas de casa
+Q24 Absorveu,Não marcou,65,6.0,2.0,5.846153846153846,1.8559934101341895,Desafio: Tarefas de casa
+Q24 Monitorias ajudam,Marcou,30,5.5,4.0,5.033333333333333,2.5255021123610706,Desafio: Tarefas de casa
+Q24 Monitorias ajudam,Não marcou,65,4.0,5.0,3.8923076923076922,2.437487672552654,Desafio: Tarefas de casa
+Q11 Dific. transição,Marcou,74,8.0,3.0,7.094594594594595,2.6022588655354895,"Método: Leitura, anotação, resumos"
+Q11 Dific. transição,Não marcou,21,8.0,4.0,7.428571428571429,2.8560712276032016,"Método: Leitura, anotação, resumos"
+Q12 Expectativa Mat.,Marcou,74,7.0,2.0,6.9324324324324325,2.0495978962879464,"Método: Leitura, anotação, resumos"
+Q12 Expectativa Mat.,Não marcou,21,8.0,3.0,7.9523809523809526,2.1089378956287566,"Método: Leitura, anotação, resumos"
+Q13 Dific. pré-requisitos,Marcou,74,7.0,5.0,5.662162162162162,2.9760552498324917,"Método: Leitura, anotação, resumos"
+Q13 Dific. pré-requisitos,Não marcou,21,5.0,4.0,5.190476190476191,2.874352929252906,"Método: Leitura, anotação, resumos"
+Q16 Aprendizado nas aulas,Marcou,74,6.0,3.0,5.202702702702703,2.176963637162284,"Método: Leitura, anotação, resumos"
+Q16 Aprendizado nas aulas,Não marcou,21,4.0,4.0,4.142857142857143,2.555106930946615,"Método: Leitura, anotação, resumos"
+Q24 Conteúdo novo,Marcou,74,8.0,3.0,7.77027027027027,2.260726621566659,"Método: Leitura, anotação, resumos"
+Q24 Conteúdo novo,Não marcou,21,10.0,3.0,8.523809523809524,2.159144451375304,"Método: Leitura, anotação, resumos"
+Q24 Absorveu,Marcou,74,6.0,2.0,5.743243243243243,1.9378056422524685,"Método: Leitura, anotação, resumos"
+Q24 Absorveu,Não marcou,21,6.0,3.0,6.095238095238095,1.6704718466577608,"Método: Leitura, anotação, resumos"
+Q24 Monitorias ajudam,Marcou,74,5.0,3.0,4.418918918918919,2.4717957354359528,"Método: Leitura, anotação, resumos"
+Q24 Monitorias ajudam,Não marcou,21,3.0,4.0,3.6666666666666665,2.614064523559687,"Método: Leitura, anotação, resumos"
+Q11 Dific. transição,Marcou,84,8.0,3.0,7.25,2.624605535479088,"Método: Prática, exercícios e listas"
+Q11 Dific. transição,Não marcou,11,7.0,3.5,6.545454545454546,2.8762349126466136,"Método: Prática, exercícios e listas"
+Q12 Expectativa Mat.,Marcou,84,8.0,3.0,7.2023809523809526,2.1552947519039303,"Método: Prática, exercícios e listas"
+Q12 Expectativa Mat.,Não marcou,11,7.0,2.5,6.818181818181818,1.6011359603844901,"Método: Prática, exercícios e listas"
+Q13 Dific. pré-requisitos,Marcou,84,7.0,5.0,5.714285714285714,2.951705361971253,"Método: Prática, exercícios e listas"
+Q13 Dific. pré-requisitos,Não marcou,11,4.0,3.0,4.363636363636363,2.73030134866931,"Método: Prática, exercícios e listas"
+Q16 Aprendizado nas aulas,Marcou,84,5.0,3.25,4.9523809523809526,2.1615744033735145,"Método: Prática, exercícios e listas"
+Q16 Aprendizado nas aulas,Não marcou,11,6.0,6.0,5.090909090909091,3.2696955654783966,"Método: Prática, exercícios e listas"
+Q24 Conteúdo novo,Marcou,84,8.0,3.0,7.940476190476191,2.186217454523319,"Método: Prática, exercícios e listas"
+Q24 Conteúdo novo,Não marcou,11,9.0,3.5,7.909090909090909,2.8090761988435076,"Método: Prática, exercícios e listas"
+Q24 Absorveu,Marcou,84,6.0,2.0,5.761904761904762,1.9114055108649766,"Método: Prática, exercícios e listas"
+Q24 Absorveu,Não marcou,11,6.0,2.5,6.2727272727272725,1.618079669911781,"Método: Prática, exercícios e listas"
+Q24 Monitorias ajudam,Marcou,84,4.0,3.25,4.2976190476190474,2.4137146391300877,"Método: Prática, exercícios e listas"
+Q24 Monitorias ajudam,Não marcou,11,2.0,5.5,3.909090909090909,3.2696955654783966,"Método: Prática, exercícios e listas"
+Q11 Dific. transição,Marcou,17,8.0,3.0,8.470588235294118,1.3746657347707993,Método: Grupos de estudos
+Q11 Dific. transição,Não marcou,78,8.0,3.75,6.884615384615385,2.7773703774949094,Método: Grupos de estudos
+Q12 Expectativa Mat.,Marcou,17,7.0,3.0,7.176470588235294,2.0686739145418453,Método: Grupos de estudos
+Q12 Expectativa Mat.,Não marcou,78,8.0,2.0,7.153846153846154,2.114126408124753,Método: Grupos de estudos
+Q13 Dific. pré-requisitos,Marcou,17,9.0,3.0,7.470588235294118,3.0845916881092936,Método: Grupos de estudos
+Q13 Dific. pré-requisitos,Não marcou,78,5.0,4.75,5.141025641025641,2.7621013973429958,Método: Grupos de estudos
+Q16 Aprendizado nas aulas,Marcou,17,7.0,4.0,6.0,2.2638462845343543,Método: Grupos de estudos
+Q16 Aprendizado nas aulas,Não marcou,78,5.0,4.0,4.743589743589744,2.2530550539782817,Método: Grupos de estudos
+Q24 Conteúdo novo,Marcou,17,9.0,2.0,8.470588235294118,2.153997651426979,Método: Grupos de estudos
+Q24 Conteúdo novo,Não marcou,78,8.0,3.0,7.82051282051282,2.266317968908409,Método: Grupos de estudos
+Q24 Absorveu,Marcou,17,7.0,2.0,6.235294117647059,1.7149858514250884,Método: Grupos de estudos
+Q24 Absorveu,Não marcou,78,6.0,2.0,5.730769230769231,1.9115036368906428,Método: Grupos de estudos
+Q24 Monitorias ajudam,Marcou,17,6.0,4.0,6.117647058823529,2.619216317459682,Método: Grupos de estudos
+Q24 Monitorias ajudam,Não marcou,78,4.0,5.0,3.8461538461538463,2.3079586925838442,Método: Grupos de estudos
+Q11 Dific. transição,Marcou,18,8.0,2.75,7.388888888888889,2.3298293017222096,Método: Videoaulas
+Q11 Dific. transição,Não marcou,77,8.0,3.0,7.116883116883117,2.7288614647968688,Método: Videoaulas
+Q12 Expectativa Mat.,Marcou,18,7.0,2.75,7.111111111111111,1.996729351858975,Método: Videoaulas
+Q12 Expectativa Mat.,Não marcou,77,8.0,2.0,7.1688311688311686,2.1300024549194987,Método: Videoaulas
+Q13 Dific. pré-requisitos,Marcou,18,5.0,3.0,5.388888888888889,2.61531437518432,Método: Videoaulas
+Q13 Dific. pré-requisitos,Não marcou,77,7.0,5.0,5.597402597402597,3.03167376152332,Método: Videoaulas
+Q16 Aprendizado nas aulas,Marcou,18,4.0,3.0,4.555555555555555,2.120549934838553,Método: Videoaulas
+Q16 Aprendizado nas aulas,Não marcou,77,5.0,4.0,5.064935064935065,2.33586263980649,Método: Videoaulas
+Q24 Conteúdo novo,Marcou,18,8.0,3.5,8.11111111111111,1.8435543958499072,Método: Videoaulas
+Q24 Conteúdo novo,Não marcou,77,9.0,3.0,7.896103896103896,2.342875064533091,Método: Videoaulas
+Q24 Absorveu,Marcou,18,6.0,2.75,5.611111111111111,1.8515141304249878,Método: Videoaulas
+Q24 Absorveu,Não marcou,77,6.0,2.0,5.87012987012987,1.894247867337278,Método: Videoaulas
+Q24 Monitorias ajudam,Marcou,18,3.0,2.75,3.5555555555555554,2.478667151852625,Método: Videoaulas
+Q24 Monitorias ajudam,Não marcou,77,5.0,4.0,4.415584415584416,2.504473100120585,Método: Videoaulas
+Q11 Dific. transição,Marcou,8,8.0,3.25,7.5,3.0237157840738176,Método: Método Pomodoro
+Q11 Dific. transição,Não marcou,87,8.0,3.0,7.137931034482759,2.6288754948231148,Método: Método Pomodoro
+Q12 Expectativa Mat.,Marcou,8,7.0,2.5,6.625,2.2638462845343543,Método: Método Pomodoro
+Q12 Expectativa Mat.,Não marcou,87,8.0,3.0,7.206896551724138,2.0861555329789456,Método: Método Pomodoro
+Q13 Dific. pré-requisitos,Marcou,8,5.5,4.25,4.875,2.6958963523950885,Método: Método Pomodoro
+Q13 Dific. pré-requisitos,Não marcou,87,7.0,5.0,5.620689655172414,2.973688412503768,Método: Método Pomodoro
+Q16 Aprendizado nas aulas,Marcou,8,5.5,3.25,5.125,1.9594095320493148,Método: Método Pomodoro
+Q16 Aprendizado nas aulas,Não marcou,87,5.0,4.0,4.954022988505747,2.3323211613037738,Método: Método Pomodoro
+Q24 Conteúdo novo,Marcou,8,9.0,0.75,8.375,1.9955307206712847,Método: Método Pomodoro
+Q24 Conteúdo novo,Não marcou,87,8.0,3.0,7.896551724137931,2.2774653534679716,Método: Método Pomodoro
+Q24 Absorveu,Marcou,8,6.0,1.0,6.25,0.7071067811865476,Método: Método Pomodoro
+Q24 Absorveu,Não marcou,87,6.0,2.0,5.781609195402299,1.9495097019645724,Método: Método Pomodoro
+Q24 Monitorias ajudam,Marcou,8,3.0,3.25,3.25,1.9086270308410553,Método: Método Pomodoro
+Q24 Monitorias ajudam,Não marcou,87,4.0,4.0,4.344827586206897,2.546441138123524,Método: Método Pomodoro
+Q11 Dific. transição,Marcou,23,8.0,3.0,7.521739130434782,2.293658554627822,Método: Cronograma/plano de estudos
+Q11 Dific. transição,Não marcou,72,8.0,3.0,7.055555555555555,2.7572638452572993,Método: Cronograma/plano de estudos
+Q12 Expectativa Mat.,Marcou,23,7.0,2.5,7.086956521739131,2.2138621842271458,Método: Cronograma/plano de estudos
+Q12 Expectativa Mat.,Não marcou,72,8.0,2.0,7.180555555555555,2.0714449531795935,Método: Cronograma/plano de estudos
+Q13 Dific. pré-requisitos,Marcou,23,8.0,2.5,6.826086956521739,2.6739853455953155,Método: Cronograma/plano de estudos
+Q13 Dific. pré-requisitos,Não marcou,72,5.0,5.0,5.152777777777778,2.9294989343332727,Método: Cronograma/plano de estudos
+Q16 Aprendizado nas aulas,Marcou,23,6.0,3.5,5.217391304347826,2.2351839814274888,Método: Cronograma/plano de estudos
+Q16 Aprendizado nas aulas,Não marcou,72,5.0,4.0,4.888888888888889,2.322914363985469,Método: Cronograma/plano de estudos
+Q24 Conteúdo novo,Marcou,23,9.0,3.0,7.956521739130435,2.285890732884612,Método: Cronograma/plano de estudos
+Q24 Conteúdo novo,Não marcou,72,8.0,3.0,7.930555555555555,2.2538004766215236,Método: Cronograma/plano de estudos
+Q24 Absorveu,Marcou,23,6.0,2.0,5.391304347826087,2.12643813228478,Método: Cronograma/plano de estudos
+Q24 Absorveu,Não marcou,72,6.0,2.0,5.958333333333333,1.7875744838219376,Método: Cronograma/plano de estudos
+Q24 Monitorias ajudam,Marcou,23,5.0,4.0,4.826086956521739,2.552221383833084,Método: Cronograma/plano de estudos
+Q24 Monitorias ajudam,Não marcou,72,4.0,4.25,4.069444444444445,2.4856001564441494,Método: Cronograma/plano de estudos
+Q11 Dific. transição,Marcou,68,8.0,4.5,6.911764705882353,2.915400661733688,Método: Perguntar a uma IA
+Q11 Dific. transição,Não marcou,27,8.0,2.0,7.814814814814815,1.6878989451394444,Método: Perguntar a uma IA
+Q12 Expectativa Mat.,Marcou,68,7.0,2.0,6.985294117647059,2.1124552247048434,Método: Perguntar a uma IA
+Q12 Expectativa Mat.,Não marcou,27,8.0,2.0,7.592592592592593,2.0240716629769056,Método: Perguntar a uma IA
+Q13 Dific. pré-requisitos,Marcou,68,6.5,5.0,5.676470588235294,2.959634792267392,Método: Perguntar a uma IA
+Q13 Dific. pré-requisitos,Não marcou,27,7.0,5.0,5.2592592592592595,2.9429523715086967,Método: Perguntar a uma IA
+Q16 Aprendizado nas aulas,Marcou,68,5.0,4.0,4.926470588235294,2.160128357646854,Método: Perguntar a uma IA
+Q16 Aprendizado nas aulas,Não marcou,27,6.0,4.0,5.074074074074074,2.644674269981465,Método: Perguntar a uma IA
+Q24 Conteúdo novo,Marcou,68,8.0,3.0,7.882352941176471,2.1127149666459335,Método: Perguntar a uma IA
+Q24 Conteúdo novo,Não marcou,27,9.0,3.0,8.074074074074074,2.6006792888652694,Método: Perguntar a uma IA
+Q24 Absorveu,Marcou,68,6.0,2.0,5.676470588235294,1.8238975526887815,Método: Perguntar a uma IA
+Q24 Absorveu,Não marcou,27,7.0,3.0,6.185185185185185,2.000712123932127,Método: Perguntar a uma IA
+Q24 Monitorias ajudam,Marcou,68,4.0,4.0,4.25,2.476004243721196,Método: Perguntar a uma IA
+Q24 Monitorias ajudam,Não marcou,27,4.0,5.0,4.2592592592592595,2.6398221471646472,Método: Perguntar a uma IA

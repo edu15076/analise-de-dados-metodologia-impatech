@@ -1,0 +1,30 @@
+id,efeito (principal),classificação (principal),efeito (sensibilidade),classificação (sensibilidade),mudou?
+A1,0.262,Indício de associação positiva,0.2432,Indício de associação positiva,
+A2,0.0852,Inconclusivo,0.091,Inconclusivo,
+A3,0.1864,Inconclusivo,0.1617,Inconclusivo,
+A4,0.37,Associação positiva,0.3966,Associação positiva,
+A5,0.6112,Associação positiva,0.5965,Associação positiva,
+A6,0.4309,Associação positiva,0.4108,Associação positiva,
+A7,-0.2985,Indício de associação negativa,-0.2863,Indício de associação negativa,
+A8,0.395,Associação positiva,0.4372,Associação positiva,
+B1,0.3649,Indício de associação positiva,0.3288,Inconclusivo,MUDOU
+B2,0.3072,Inconclusivo,0.3567,Indício de associação positiva,MUDOU
+B3,-0.0396,Inconclusivo,0.0337,Inconclusivo,
+B4,-0.0706,Inconclusivo,-0.0317,Inconclusivo,
+B5,0.0267,Inconclusivo,0.0423,Inconclusivo,
+B6,-0.2874,Inconclusivo,-0.3385,Indício de associação negativa,MUDOU
+B7,0.0241,Inconclusivo,0.0019,Inconclusivo,
+B8,-0.3546,Inconclusivo,-0.4183,Indício de associação negativa,MUDOU
+B9,-0.1222,Inconclusivo,-0.1038,Inconclusivo,
+C1,-0.1079,Inconclusivo,-0.1415,Inconclusivo,
+C2,0.1594,Inconclusivo,0.1243,Inconclusivo,
+C3,0.1426,Inconclusivo,0.1494,Inconclusivo,
+C4,0.4529,Indício de associação positiva,0.4512,Indício de associação positiva,
+C5,-0.1498,Inconclusivo,-0.1754,Inconclusivo,
+C6,0.1457,Inconclusivo,0.1223,Inconclusivo,
+C7,-0.2201,Inconclusivo,-0.194,Inconclusivo,
+C8,-0.0568,Inconclusivo,-0.0291,Inconclusivo,
+D1,0.274,Indício de associação positiva,0.2615,Inconclusivo,MUDOU
+D2,0.2163,Inconclusivo,0.195,Inconclusivo,
+D3,0.1467,Inconclusivo,0.1479,Inconclusivo,
+D4,-0.0434,Inconclusivo,-0.0393,Inconclusivo,

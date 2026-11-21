@@ -1,0 +1,8 @@
+desfecho,Turma 2024: n,Turma 2024: Md [IQR],Turma 2025: n,Turma 2025: Md [IQR],Turma 2026: n,Turma 2026: Md [IQR],teste,estat,p,p_holm,sig,efeito,medida
+Q11 Dificuldade da transição EM→superior,17,7.0 [2.0–8.0],35,8.0 [6.5–9.0],43,8.0 [7.0–9.5],Kruskal-Wallis,5.07,0.0793,0.5057,,0.054,ε²
+Q12 Expectativa com a Matemática correspondida,17,8.0 [8.0–9.0],35,7.0 [6.5–8.0],43,8.0 [6.0–9.0],Kruskal-Wallis,4.11,0.1283,0.6413,,0.044,ε²
+Q13 Dificuldade com pré-requisitos,17,3.0 [2.0–6.0],35,7.0 [3.0–8.0],43,7.0 [4.0–8.0],Kruskal-Wallis,5.26,0.0722,0.5057,,0.056,ε²
+Q16 Aprendizado atribuído às aulas,17,6.0 [2.0–7.0],35,6.0 [4.0–7.0],43,4.0 [3.0–6.0],Kruskal-Wallis,1.81,0.4044,1.0,,0.019,ε²
+Q24 Conteúdo novo visto,17,8.0 [7.0–9.0],35,9.0 [7.5–10.0],43,8.0 [6.5–10.0],Kruskal-Wallis,1.96,0.3756,1.0,,0.021,ε²
+Q24 Quanto sente que absorveu,17,7.0 [5.0–7.0],35,6.0 [5.0–7.0],43,6.0 [5.0–7.5],Kruskal-Wallis,1.05,0.5903,1.0,,0.011,ε²
+Q24 Quanto as monitorias ajudam,17,2.0 [1.0–5.0],35,5.0 [3.0–6.0],43,4.0 [2.0–6.0],Kruskal-Wallis,3.56,0.1688,0.6753,,0.038,ε²

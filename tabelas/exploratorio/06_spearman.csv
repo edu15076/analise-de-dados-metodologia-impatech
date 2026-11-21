@@ -1,0 +1,46 @@
+x,y,n,rho,p,p_holm,sig
+Q11 Dificuldade da transição EM→superior,Q12 Expectativa com a Matemática correspondida,95,-0.012,0.907,1.0,
+Q11 Dificuldade da transição EM→superior,Q13 Dificuldade com pré-requisitos,95,0.506,0.0,0.0,*
+Q11 Dificuldade da transição EM→superior,Q16 Aprendizado atribuído às aulas,95,0.253,0.0134,0.3362,
+Q11 Dificuldade da transição EM→superior,Q24 Conteúdo novo visto,95,0.384,0.0001,0.0049,*
+Q11 Dificuldade da transição EM→superior,Q24 Quanto sente que absorveu,95,-0.213,0.0384,0.8528,
+Q11 Dificuldade da transição EM→superior,Q24 Quanto as monitorias ajudam,95,0.292,0.004,0.129,
+Q11 Dificuldade da transição EM→superior,Q7 Impacto da graduação anterior (1–5),26,-0.062,0.7624,1.0,
+Q11 Dificuldade da transição EM→superior,Q14 Nº de matérias c/ apoio (ord.),95,0.433,0.0,0.0005,*
+Q11 Dificuldade da transição EM→superior,Q17 Uso de IA (ord.),95,0.342,0.0007,0.0254,*
+Q12 Expectativa com a Matemática correspondida,Q13 Dificuldade com pré-requisitos,95,-0.056,0.588,1.0,
+Q12 Expectativa com a Matemática correspondida,Q16 Aprendizado atribuído às aulas,95,0.15,0.1458,1.0,
+Q12 Expectativa com a Matemática correspondida,Q24 Conteúdo novo visto,95,0.126,0.2246,1.0,
+Q12 Expectativa com a Matemática correspondida,Q24 Quanto sente que absorveu,95,0.278,0.0064,0.1869,
+Q12 Expectativa com a Matemática correspondida,Q24 Quanto as monitorias ajudam,95,0.059,0.5732,1.0,
+Q12 Expectativa com a Matemática correspondida,Q7 Impacto da graduação anterior (1–5),26,0.078,0.7032,1.0,
+Q12 Expectativa com a Matemática correspondida,Q14 Nº de matérias c/ apoio (ord.),95,-0.11,0.2896,1.0,
+Q12 Expectativa com a Matemática correspondida,Q17 Uso de IA (ord.),95,-0.051,0.626,1.0,
+Q13 Dificuldade com pré-requisitos,Q16 Aprendizado atribuído às aulas,95,0.269,0.0084,0.235,
+Q13 Dificuldade com pré-requisitos,Q24 Conteúdo novo visto,95,0.374,0.0002,0.0073,*
+Q13 Dificuldade com pré-requisitos,Q24 Quanto sente que absorveu,95,-0.12,0.245,1.0,
+Q13 Dificuldade com pré-requisitos,Q24 Quanto as monitorias ajudam,95,0.299,0.0033,0.1185,
+Q13 Dificuldade com pré-requisitos,Q7 Impacto da graduação anterior (1–5),26,-0.138,0.5006,1.0,
+Q13 Dificuldade com pré-requisitos,Q14 Nº de matérias c/ apoio (ord.),95,0.608,0.0,0.0,*
+Q13 Dificuldade com pré-requisitos,Q17 Uso de IA (ord.),95,0.281,0.0058,0.1748,
+Q16 Aprendizado atribuído às aulas,Q24 Conteúdo novo visto,95,0.358,0.0004,0.0137,*
+Q16 Aprendizado atribuído às aulas,Q24 Quanto sente que absorveu,95,0.259,0.0112,0.2921,
+Q16 Aprendizado atribuído às aulas,Q24 Quanto as monitorias ajudam,95,0.7,0.0,0.0,*
+Q16 Aprendizado atribuído às aulas,Q7 Impacto da graduação anterior (1–5),26,0.226,0.2674,1.0,
+Q16 Aprendizado atribuído às aulas,Q14 Nº de matérias c/ apoio (ord.),95,0.214,0.0371,0.8528,
+Q16 Aprendizado atribuído às aulas,Q17 Uso de IA (ord.),95,0.065,0.5331,1.0,
+Q24 Conteúdo novo visto,Q24 Quanto sente que absorveu,95,0.093,0.3699,1.0,
+Q24 Conteúdo novo visto,Q24 Quanto as monitorias ajudam,95,0.283,0.0054,0.1687,
+Q24 Conteúdo novo visto,Q7 Impacto da graduação anterior (1–5),26,-0.141,0.493,1.0,
+Q24 Conteúdo novo visto,Q14 Nº de matérias c/ apoio (ord.),95,0.294,0.0038,0.1256,
+Q24 Conteúdo novo visto,Q17 Uso de IA (ord.),95,0.23,0.0251,0.6022,
+Q24 Quanto sente que absorveu,Q24 Quanto as monitorias ajudam,95,0.171,0.0971,1.0,
+Q24 Quanto sente que absorveu,Q7 Impacto da graduação anterior (1–5),26,-0.109,0.5961,1.0,
+Q24 Quanto sente que absorveu,Q14 Nº de matérias c/ apoio (ord.),95,-0.299,0.0033,0.1185,
+Q24 Quanto sente que absorveu,Q17 Uso de IA (ord.),95,-0.296,0.0035,0.1206,
+Q24 Quanto as monitorias ajudam,Q7 Impacto da graduação anterior (1–5),26,-0.055,0.7879,1.0,
+Q24 Quanto as monitorias ajudam,Q14 Nº de matérias c/ apoio (ord.),95,0.262,0.0103,0.2786,
+Q24 Quanto as monitorias ajudam,Q17 Uso de IA (ord.),95,0.061,0.5597,1.0,
+Q7 Impacto da graduação anterior (1–5),Q14 Nº de matérias c/ apoio (ord.),26,-0.128,0.5344,1.0,
+Q7 Impacto da graduação anterior (1–5),Q17 Uso de IA (ord.),26,-0.328,0.1016,1.0,
+Q14 Nº de matérias c/ apoio (ord.),Q17 Uso de IA (ord.),95,0.384,0.0001,0.0049,*

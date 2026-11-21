@@ -1,0 +1,8 @@
+desfecho,Só escola pública: n,Só escola pública: Md [IQR],Alguma escola privada: n,Alguma escola privada: Md [IQR],teste,estat,p,p_holm,sig,efeito,medida
+Q11 Dificuldade da transição EM→superior,82,8.0 [7.0–9.0],13,6.0 [3.0–9.0],Mann-Whitney U,650.0,0.1999,1.0,,0.132,r
+Q12 Expectativa com a Matemática correspondida,82,8.0 [6.0–8.8],13,7.0 [4.0–8.0],Mann-Whitney U,592.0,0.5199,1.0,,0.067,r
+Q13 Dificuldade com pré-requisitos,82,7.0 [3.0–8.0],13,4.0 [2.0–9.0],Mann-Whitney U,557.0,0.7974,1.0,,0.027,r
+Q16 Aprendizado atribuído às aulas,82,5.0 [3.2–7.0],13,5.0 [3.0–7.0],Mann-Whitney U,543.0,0.9173,1.0,,0.011,r
+Q24 Conteúdo novo visto,82,9.0 [7.0–10.0],13,7.0 [6.0–10.0],Mann-Whitney U,616.5,0.3559,1.0,,0.095,r
+Q24 Quanto sente que absorveu,82,6.0 [5.0–7.0],13,6.0 [5.0–7.0],Mann-Whitney U,565.0,0.7289,1.0,,0.036,r
+Q24 Quanto as monitorias ajudam,82,4.0 [2.0–6.0],13,5.0 [1.0–6.0],Mann-Whitney U,518.5,0.8781,1.0,,0.016,r

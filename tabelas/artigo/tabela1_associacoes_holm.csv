@@ -1,0 +1,5 @@
+﻿id,associação,medida,efeito,IC 95%,p (Holm),na sensibilidade
+A5,Dificuldade com pré-requisitos × Nº de disciplinas em que precisou de apoio,ρ,"0,61","0,45 a 0,74","< 0,001",mantém
+A6,Dificuldade da transição EM→superior × Nº de disciplinas em que precisou de apoio,ρ,"0,43","0,24 a 0,60","< 0,001",mantém
+A8,Inclinação ao uso de IA devido ao ritmo do curso × Nº de disciplinas em que precisou de apoio,ρ,"0,40","0,22 a 0,55","0,002",mantém
+A4,Dificuldade com pré-requisitos × Conteúdo novo visto,ρ,"0,37","0,18 a 0,54","0,005",mantém

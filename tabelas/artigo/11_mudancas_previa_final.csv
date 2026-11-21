@@ -1,0 +1,30 @@
+id,efeito (prévia),classificação (prévia),efeito (final),classificação (final),mudou?
+A1,0.295,Indício de associação positiva,0.262,Indício de associação positiva,
+A2,0.0963,Inconclusivo,0.0852,Inconclusivo,
+A3,0.1995,Inconclusivo,0.1864,Inconclusivo,
+A4,0.3795,Associação positiva,0.37,Associação positiva,
+A5,0.6289,Associação positiva,0.6112,Associação positiva,
+A6,0.4056,Associação positiva,0.4309,Associação positiva,
+A7,-0.3303,Associação negativa,-0.2985,Indício de associação negativa,MUDOU
+A8,0.4339,Associação positiva,0.395,Associação positiva,
+B1,,grupo insuficiente,0.3649,Indício de associação positiva,MUDOU
+B2,,grupo insuficiente,0.3072,Inconclusivo,MUDOU
+B3,,grupo insuficiente,-0.0396,Inconclusivo,MUDOU
+B4,,grupo insuficiente,-0.0706,Inconclusivo,MUDOU
+B5,,grupo insuficiente,0.0267,Inconclusivo,MUDOU
+B6,,grupo insuficiente,-0.2874,Inconclusivo,MUDOU
+B7,,grupo insuficiente,0.0241,Inconclusivo,MUDOU
+B8,,grupo insuficiente,-0.3546,Inconclusivo,MUDOU
+B9,,grupo insuficiente,-0.1222,Inconclusivo,MUDOU
+C1,-0.1204,Inconclusivo,-0.1079,Inconclusivo,
+C2,0.1314,Inconclusivo,0.1594,Inconclusivo,
+C3,0.1462,Inconclusivo,0.1426,Inconclusivo,
+C4,0.449,Indício de associação positiva,0.4529,Indício de associação positiva,
+C5,-0.1212,Inconclusivo,-0.1498,Inconclusivo,
+C6,0.1596,Inconclusivo,0.1457,Inconclusivo,
+C7,-0.2379,Inconclusivo,-0.2201,Inconclusivo,
+C8,-0.0411,Inconclusivo,-0.0568,Inconclusivo,
+D1,0.2868,Inconclusivo,0.274,Indício de associação positiva,MUDOU
+D2,0.1645,Inconclusivo,0.2163,Inconclusivo,
+D3,0.2463,Inconclusivo,0.1467,Inconclusivo,
+D4,-0.0892,Inconclusivo,-0.0434,Inconclusivo,

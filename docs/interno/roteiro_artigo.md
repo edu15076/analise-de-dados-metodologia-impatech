@@ -113,13 +113,14 @@ O texto atual já descreve a especificação da seção 11, que deve ficar idên
 ## 5. Resultados
 Fontes:
 - `relatorio_resumo_expandido.md`;
-- `tabelas/artigo/tabela1_associacoes_holm.csv` (**Tabela 1 do artigo**, já formatada);
+- `tabelas/artigo/tabela1_escalas.csv` (**Tabela 1 do artigo**: escalas, já formatada);
+- `tabelas/artigo/tabela2_associacoes_holm.csv` (**Tabela 2 do artigo**, já formatada);
 - `tabelas/artigo/11_tabela_descritiva.csv` (caracterização, em texto);
 - `tabelas/artigo/11_tabela_associacoes.csv` (as 29, com todas as colunas);
 - `tabelas/artigo/11_sensibilidade.csv`;
 - `figuras/artigo/11_associacoes_ic.png`, opcional.
 
-### 5.1 Caracterização (em texto; a Tabela 1 é a das associações)
+### 5.1 Caracterização (em texto; a Tabela 1 é a das escalas e a Tabela 2, a das associações)
 **Fonte:** `11_tabela_descritiva.csv`, com 114 incluídos e percentuais sobre quem respondeu a cada pergunta.
 
 **Perfil:**
@@ -151,7 +152,7 @@ Fontes:
 - **Reprovação ou trancamento:** 11 de 97 relataram. Dizer que o número não permite comparações.
 
 ### 5.2 Bloco A: percepção das aulas e da aprendizagem
-**Associações (Holm) = Tabela 1 do artigo** (`tabela1_associacoes_holm.csv`), agora com **4 linhas**:
+**Associações (Holm) = Tabela 2 do artigo** (`tabela2_associacoes_holm.csv`), agora com **4 linhas**:
 
 | Associação | ρ | IC95 | p Holm |
 |---|---|---|---|
@@ -161,7 +162,7 @@ Fontes:
 | Pré-requisitos × conteúdo novo (A4) | 0,37 | [0,18; 0,54] | 0,005 |
 
 - **Sensibilidade:** as quatro se mantêm.
-- **Nota da Tabela 1:** "A variável de uso de IA compara, na prática, os estudantes que sempre recorrem à IA com os que recorrem algumas vezes. Fonte: elaborado pelos autores (2026)." O asterisco da prévia sai, porque a A7 não está mais na tabela.
+- **Nota da Tabela 2:** "A variável de uso de IA compara, na prática, os estudantes que sempre recorrem à IA com os que recorrem algumas vezes. Fonte: elaborado pelos autores (2026)." O asterisco da prévia sai, porque a A7 não está mais na tabela.
 - **Indícios:**
   - IA × absorção (A7): ρ = −0,30 [−0,49; −0,09], p Holm = 0,074. Na prévia, era associação. O texto passa a dizer que ela **não resistiu** à correção. Mantém-se como indício na sensibilidade.
   - Aulas × absorção (A1): ρ = 0,26 [0,05; 0,46], p Holm = 0,219. Mantém-se na sensibilidade.
@@ -186,7 +187,7 @@ Fontes:
 
 ### 5.6 Sensibilidade
 - **Amostra:** sem quem errou 77 + 33 e sem quem não respondeu à pergunta 25. Exclui menos de 5 participantes; não escrever o N (93 de 97 revelaria um grupo de 4).
-- **Resultado:** 5 das 29 classificações mudam, todas nos blocos B e D (B1 e D1 viram inconclusivos; B2, B6 e B8 viram indícios). As quatro associações da Tabela 1 se mantêm.
+- **Resultado:** 5 das 29 classificações mudam, todas nos blocos B e D (B1 e D1 viram inconclusivos; B2, B6 e B8 viram indícios). As quatro associações da Tabela 2 se mantêm.
 
 ### 5.7 Respostas abertas (entra no artigo; codificação concluída em 20/11/2026)
 - **Lugar no texto:** depois do bloco B, em um parágrafo curto e no **Quadro 1**.

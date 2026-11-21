@@ -91,7 +91,7 @@ O grupo ainda vai decidir se a análise das respostas abertas entra na versão f
 
 ## 6. Entregáveis para o texto
 - `relatorio_resumo_expandido.md` atualizado: fluxo, amostra, resultados por bloco, sensibilidade e limitações.
-- Tabela das associações que resistiram a Holm, com ρ, IC 95% e p de Holm: Tabela 1 do artigo, já formatada em `tabelas/artigo/tabela1_associacoes_holm.csv` (todas as 29 em `11_tabela_associacoes.csv`).
+- Tabela das associações que resistiram a Holm, com ρ, IC 95% e p de Holm: Tabela 2 do artigo, já formatada em `tabelas/artigo/tabela2_associacoes_holm.csv` (a Tabela 1 é a das escalas, `tabela1_escalas.csv`) (todas as 29 em `11_tabela_associacoes.csv`).
 - Se a trilha qualitativa seguir: quadro de categorias e concordância (`tabelas/artigo/12_categorias_q21.csv`).
 - Lista de mudanças entre a prévia e a versão final, só para controle interno (`tabelas/artigo/11_mudancas_previa_final.csv`).
 

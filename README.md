@@ -14,11 +14,12 @@ Tudo o que o artigo usa sai das **seções 11 e 12** do notebook [`analise.ipynb
 |---|---|
 | Fluxo de inclusão | [`tabelas/artigo/11_fluxo_inclusao.csv`](tabelas/artigo/11_fluxo_inclusao.csv) |
 | Caracterização da amostra | [`tabelas/artigo/11_tabela_descritiva.csv`](tabelas/artigo/11_tabela_descritiva.csv) |
-| **Tabela 1**: associações que resistiram à correção de Holm | [`tabelas/artigo/tabela1_associacoes_holm.csv`](tabelas/artigo/tabela1_associacoes_holm.csv) |
+| **Tabela 1**: respostas às escalas (mediana e intervalo interquartil) | [`tabelas/artigo/tabela1_escalas.csv`](tabelas/artigo/tabela1_escalas.csv) |
+| **Tabela 2**: associações que resistiram à correção de Holm | [`tabelas/artigo/tabela2_associacoes_holm.csv`](tabelas/artigo/tabela2_associacoes_holm.csv) |
 | As 29 associações, com todas as estatísticas | [`tabelas/artigo/11_tabela_associacoes.csv`](tabelas/artigo/11_tabela_associacoes.csv) |
 | Análise de sensibilidade | [`tabelas/artigo/11_sensibilidade.csv`](tabelas/artigo/11_sensibilidade.csv) |
-| Categorias das sugestões (respostas abertas, seção 12) | [`tabelas/artigo/12_categorias_q21.csv`](tabelas/artigo/12_categorias_q21.csv) |
-| Figura complementar: as 29 associações com IC 95% | [`figuras/artigo/11_associacoes_ic.png`](figuras/artigo/11_associacoes_ic.png) |
+| **Quadro 1**: categorias das sugestões (respostas abertas, seção 12) | [`tabelas/artigo/12_categorias_q21.csv`](tabelas/artigo/12_categorias_q21.csv) |
+| Material complementar (não está no artigo): as 29 associações com IC 95% | [`figuras/artigo/11_associacoes_ic.png`](figuras/artigo/11_associacoes_ic.png) |
 | Relatório com todos os números citados no texto | [`relatorio_resumo_expandido.md`](relatorio_resumo_expandido.md) |
 
 Os números são os da coleta completa: 117 registros, 114 incluídos e 97 participantes nas associações, com respostas de 30/10 a 17/11/2026. O arquivo `11_tabela_associacoes_previa.csv` guarda uma primeira rodada da análise (prévia de 09/11/2026), e `11_mudancas_previa_final.csv` lista o que mudou, só para controle.

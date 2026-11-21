@@ -24,7 +24,7 @@ Gerado pelo notebook `analise.ipynb` (seção 11), modo `final`. Todas as análi
 - Inclinação ao uso de IA: na prática, a variável tem dois níveis — "Sim, sempre uso" (60) e "Sim, usei algumas vezes" (34); "Não" e "Sim, mas nunca usei" somam <5. As associações com IA (A7, A8, B9) comparam, essencialmente, "sempre uso" com "usei algumas vezes".
 
 ## Resultados por bloco
-Holm aplicado sobre as 29 associações calculadas da família de 29. Primeiro as associações que sobrevivem a Holm, depois os indícios (IC 95% exclui zero, sem Holm). As demais estão em `tabelas/artigo/11_tabela_associacoes.csv`; a Tabela 1 do artigo (as que resistiram a Holm), já formatada, está em `tabelas/artigo/tabela1_associacoes_holm.csv`.
+Holm aplicado sobre as 29 associações calculadas da família de 29. Primeiro as associações que sobrevivem a Holm, depois os indícios (IC 95% exclui zero, sem Holm). As demais estão em `tabelas/artigo/11_tabela_associacoes.csv`; a Tabela 2 do artigo (as que resistiram a Holm), já formatada, está em `tabelas/artigo/tabela2_associacoes_holm.csv`.
 
 ### A · Percepção das aulas e da aprendizagem
 **Associações (Holm):**
@@ -105,5 +105,5 @@ _Perguntas-guia; sujeito = "as sugestões", nunca "os estudantes"; ligação com
 - Quais categorias reúnem mais sugestões? O que as duas mais frequentes têm em comum?
 - Em que categorias A e B mais divergiram? A definição delas no livro de códigos ficou clara?
 - Algum trecho candidato pode identificar quem escreveu (turma, cidade, disciplina com um só professor)?
-- Alguma categoria conversa com as associações da Tabela 1? Como escrever isso como hipótese ("pode indicar")?
+- Alguma categoria conversa com as associações da Tabela 2? Como escrever isso como hipótese ("pode indicar")?
 - O que as categorias não permitem dizer, dado que poucos participantes responderam à pergunta aberta?

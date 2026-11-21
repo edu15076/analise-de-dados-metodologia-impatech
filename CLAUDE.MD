@@ -69,7 +69,8 @@ N_MIN_CELULA = 5                     # abaixo disso: suprimir contagem em tabela
 - spaCy `pt_core_news_sm`. Lematizar e manter só VERB e NOUN, sem stopwords.
 - Frequência de lemas (geral e por pergunta), matriz termo × texto, grafo de co-ocorrência (networkx, mesma resposta = aresta) e comunidades (Louvain).
 - Com menos de 30 textos: rotular como exploratório e não interpretar clusters como achado.
-- Sentimento por léxico (LeIA), se usado, só como apoio. A análise principal é a codificação temática manual, numa tabela `qualitativa/codigos.csv` (id_resposta, trecho, tema) preenchida pela aluna.
+- Só lemas que aparecem em ≥ 3 textos (`MIN_TEXTOS_LEMA`) vão para tabelas, figuras e saídas; perguntas com < `N_MIN_CELULA` textos não têm lemas listados.
+- Sentimento por léxico (LeIA), se usado, só como apoio. A análise das sugestões que entra no artigo é a análise de conteúdo categorial da seção 12 (o antigo `qualitativa/codigos.csv` não é mais usado).
 - **Texto literal e `id_resposta` nunca vão para o git nem aparecem nas saídas do notebook:** todo arquivo com texto de resposta fica em `qualitativa/` (no `.gitignore`); o notebook só exibe contagens e lemas.
 
 ## Estrutura do notebook

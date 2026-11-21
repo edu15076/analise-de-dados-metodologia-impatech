@@ -92,16 +92,16 @@ O texto atual já descreve a especificação da seção 11, que deve ficar idên
 | Classificação | os quatro níveis da §1 |
 | Sensibilidade | exclui quem errou 77 + 33 e quem não respondeu à pergunta 25 (trancou/reprovou) |
 
-- **Se a trilha qualitativa entrar:** acrescentar um parágrafo depois do da análise estatística, com o texto pronto do guia "Respostas abertas no resumo expandido":
+- **Trilha qualitativa (entra):** acrescentar um parágrafo depois do da análise estatística, com o texto pronto do guia "Respostas abertas no resumo expandido":
   - análise de conteúdo categorial (BARDIN, 2016) das sugestões (questão 21);
-  - exclusão das respostas que não eram sugestão;
+  - regra de exclusão das respostas que não eram sugestão (nesta coleta, nenhuma foi excluída: as 18 com conteúdo entraram);
   - unidade de análise = trecho com uma ideia;
   - categorias definidas a partir das respostas por dois autores;
   - codificação independente;
-  - concordância de [x]%;
+  - concordância de 89% nas decisões resposta × categoria, sempre com o kappa ao lado (0,67);
   - divergências resolvidas por consenso.
 
-  Nesse caso, a abordagem volta a ser "quali-quantitativa".
+  A abordagem passa a ser "quali-quantitativa".
 - **Tirar:**
   - spaCy, lemas e coocorrência;
   - "codificação temática manual";

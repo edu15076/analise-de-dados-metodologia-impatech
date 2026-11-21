@@ -1,8 +1,8 @@
 # Hipóteses levantadas a partir da prévia
 
-> **Material de exploração interna.** Pelo [briefing da análise](interno/briefing_analise.md) (15/11/2026), o artigo **não** usa estas hipóteses, o mapa de 151 associações nem as agregações das seções 05g–05i: a única análise inferencial do artigo é a seção 11. As hipóteses ficam registradas para estudos futuros e só podem ser testadas nas respostas posteriores ao corte. A numeração das perguntas segue o Apêndice A atual (23 métodos, 24 aulas/absorção/monitorias, 25 trancou/reprovou).
+> **Material de exploração interna.** Pelo [briefing da análise](interno/briefing_analise.md) (15/11/2026), o artigo **não** usa estas hipóteses, o mapa de 151 associações nem as agregações das seções 05g–05i: a única análise inferencial do artigo é a seção 11. As hipóteses ficam registradas para estudos futuros; no notebook, são testadas de forma exploratória com todas as respostas juntas. A numeração das perguntas segue o Apêndice A atual (23 métodos, 24 aulas/absorção/monitorias, 25 trancou/reprovou).
 
-Dados parciais: N = 79, coleta em andamento. Todas as análises são **exploratórias**.
+As hipóteses foram formuladas com a prévia (N = 79, respostas até 09/11/2026), e **os números citados no texto são os dessa prévia**. Os resultados com todas as respostas estão em `tabelas/exploratorio/05a_hipoteses.csv` e `tabelas/exploratorio/05i_hipoteses_carta.csv`, e os gráficos abaixo já os mostram. Todas as análises são **exploratórias**.
 As fontes dos números são `tabelas/exploratorio/05f_classificacao.csv` (grupo × escala, IC95 por bootstrap) e `tabelas/exploratorio/06_spearman.csv` (escala × escala).
 
 **Legenda**
